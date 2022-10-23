@@ -1,0 +1,931 @@
+Unnamed: 0,Brand,Store.Number,Street.Address,City,State.Province,Postcode,Longitude,Latitude
+1,Starbucks,11037-97631,"1195 Springs Center South Blvd, Altamonte",Altamonte Springs,FL,327141942,-81.39,28.69
+2,Starbucks,24857-232566,"886 W State Road, West Town Corners",Altamonte Springs,FL,32714,-81.42,28.67
+3,Starbucks,8475-31199,"150 South SR 434, 1087, Renaissance Center",Altamonte Springs,FL,32714,-81.42,28.66
+4,Starbucks,11387-105395,"355 E Altamonte Drive, 1700",Altamonte Springs,FL,327014407,-81.38,28.66
+5,Starbucks,29952-254207,503 E Altamonte Drive,Altamonte Springs,FL,32701,-81.37,28.66
+6,Starbucks,11956-98744,3850 E. SR 436,Apopka,FL,32703,-81.44,28.67
+7,Starbucks,9907-98589,1720 S Orange Blossom Trail,Apopka,FL,327037745,-81.47,28.65
+8,Starbucks,8316-5449,19127 Biscayne Blvd.,Aventura,FL,331802310,-80.15,25.95
+9,Starbucks,8275-1577,"19501 Biscayne Blvd, #1685",Aventura,FL,33242,-80.14,25.96
+10,Starbucks,8566-79262,18215 Biscayne Blvd,Aventura,FL,331602506,-80.15,25.94
+11,Starbucks,49266-238016,19999 West Country Club Dr,Aventura,FL,33180,-80.14,25.96
+12,Starbucks,22364-193144,715 Theatre of the Stars Drive,Bay Lake,FL,32830,-81.56,28.36
+13,Starbucks,9517-95430,5072 S Conway Rd,Belle Isle,FL,328121258,-81.33,28.48
+14,Starbucks,8248-696,9961 W Glades Road,Boca Raton,FL,334343920,-80.2,26.37
+15,Starbucks,10354-100248,9704 Clint Moore Rd,Boca Raton,FL,334961036,-80.2,26.41
+16,Starbucks,8235-1067,22113 Powerline Rd.,Boca Raton,FL,334335046,-80.15,26.35
+17,Starbucks,8588-85183,"698 Yamato Rd, Building #1, Federal & 5th",Boca Raton,FL,33434,-80.1,26.39
+18,Starbucks,8257-191205,"1830 N FEDERAL HWY, Unit 1, Boca Town Center",Boca Raton,FL,33432,-80.08,26.37
+19,Starbucks,11388-105377,"6000 Glades Rd, Town Center Boca",Boca Raton,FL,334317208,-80.13,26.37
+20,Starbucks,11605-102741,"6000 W. Glades Road, K122, Corporate Centre at Boca Raton",Boca Raton,FL,334317208,-80.13,26.37
+21,Starbucks,8334-12112,"7775 Glades Rd, #300",Boca Raton,FL,334344180,-80.17,26.37
+22,Starbucks,8307-7052,"5250 Towne Center Circle, #117",Boca Raton,FL,334861067,-80.12,26.36
+23,Starbucks,8261-1535,302 Plaza Real,Boca Raton,FL,334323933,-80.08,26.35
+24,Starbucks,8262-1068,"17940 N. Military Trail, Suite 600, Glades Plaza",Boca Raton,FL,334962411,-80.12,26.41
+25,Starbucks,8354-4092,"2200 West Glades Road, 102",Boca Raton,FL,334317309,-80.13,26.37
+26,Starbucks,75289-44839,777 Glades Rd,Boca Raton,FL,334316424,-80.1,26.37
+27,Starbucks,22555-220044,27250 Bay Landing Dr,Bonita Springs,FL,34135,-81.81,26.34
+28,Starbucks,76473-97108,10201 Hagen Beach Rd,Boynton Beach,FL,334373758,-80.17,26.53
+29,Starbucks,13563-107228,"1500 Gateway Blvd, 130",Boynton Beach,FL,334267219,-80.09,26.55
+30,Starbucks,8805-94142,306 N. Congress Ave,Boynton Beach,FL,334263416,-80.09,26.53
+31,Starbucks,17947-179784,4742 North Congress Avenue,Boynton Beach,FL,33426,-80.09,26.57
+32,Starbucks,76749-106133,6500 Congress Ave,Boynton Beach,FL,33426,-80.08,26.53
+33,Starbucks,13236-104290,5783 Manatee Ave W,Bradenton,FL,342092540,-82.62,27.5
+34,Starbucks,11248-103874,7386 52nd Place East,Bradenton,FL,342038914,-82.46,27.44
+35,Starbucks,19070-191185,6521 SR 64,Bradenton,FL,34208,-82.48,27.49
+36,Starbucks,13874-109745,"8155 Lakewood Main St., Space P-102",Bradenton,FL,342025057,-82.44,27.39
+37,Starbucks,11679-105826,102 Manatee Ave East,Bradenton,FL,342081930,-82.56,27.49
+38,Starbucks,3485-91461,7484 Cortez Rd,Bradenton,FL,342102444,-82.64,27.46
+39,Starbucks,26774-244572,"4220 53rd Ave E, Unit 101",Bradenton,FL,34203,-82.51,27.45
+40,Starbucks,8541-186204,"5250 14th Street W., Brandon Town Center",Bradenton,FL,34207,-82.58,27.45
+41,Starbucks,14074-114624,"459 Brandon Town Center Mall, Suite 885",Brandon,FL,335114756,-82.33,27.93
+42,Starbucks,8549-72560,"11029 Causeway Blvd, Unit E",Brandon,FL,335111999,-82.33,27.92
+43,Starbucks,76151-93558,"187 Brandon Town Ctr Dr, Regency Square Shopping Center",Brandon,FL,335114752,-82.32,27.94
+44,Starbucks,8534-52580,2350 West Brandon Blvd,Brandon,FL,335114717,-82.32,27.94
+45,Starbucks,10355-98749,1265 E Brandon Blvd,Brandon,FL,335115530,-82.26,27.94
+46,Starbucks,8592-221244,"459 Brandon Town Center Mall, 9070",Brandon,FL,33511,-82.33,27.93
+47,Starbucks,10192-98751,13163 Cortez Blvd.,Brooksville,FL,346137804,-82.51,28.53
+48,Starbucks,13317-103549,740 N Tyndall Pkwy,Callaway,FL,324043218,-85.59,30.16
+49,Starbucks,16887-175725,2430 Santa Barbara Blvd,Cape Coral,FL,339144485,-81.97,26.61
+50,Starbucks,11607-242367,"2390 Surfside Boulevard, Suite 101",Cape Coral,FL,33914,-82.02,26.61
+51,Starbucks,11783-104279,1860 NE Pine Island Rd,Cape Coral,FL,339091744,-81.93,26.67
+52,Starbucks,29496-248064,"2207 Del Prado Blvd S, Unit 1",Cape Coral,FL,33990,-81.94,26.61
+53,Starbucks,21921-207684,4802 Chester St,Cape Coral,FL,33904,-81.96,26.56
+54,Starbucks,76810-111305,1850 NE Pine Island Rd,Cape Coral,FL,339091733,-81.94,26.67
+55,Starbucks,75824-102331,5400 Plantation Road,Captiva,FL,339246000,-82.19,26.53
+56,Starbucks,76464-97608,"4410 S USHwy 17-92, Casselberry Exchange Shopping Center",Casselberry,FL,327073290,-81.34,28.67
+57,Starbucks,9516-95434,"168 Semoran Blvd., Casselberry Commons Shopping Center",Casselberry,FL,327073000,-81.34,28.66
+58,Starbucks,10231-97300,2535 Howell Branch Rd.,Casselberry,FL,327076553,-81.32,28.63
+59,Starbucks,11396-105347,715 Bloom Street,Celebration,FL,347474696,-81.54,28.32
+60,Starbucks,76113-79324,2747 Gulf To Bay Blvd,Clearwater,FL,337593945,-82.72,27.96
+61,Starbucks,13709-108226,4000 Ulmerton Rd.,Clearwater,FL,337624103,-82.69,27.89
+62,Starbucks,29670-140451,400 Mandalay Ave,Clearwater,FL,33767,-82.83,27.98
+63,Starbucks,8603-84240,"2539 Countryside Blvd, Northwood Plaza",Clearwater,FL,337613506,-82.73,28.01
+64,Starbucks,8447-27969,2560 McMullen Booth Road,Clearwater,FL,337614182,-82.71,28.01
+65,Starbucks,18691-181784,2195 Gulf to Bay Blvd,Clearwater,FL,33765,-82.75,27.96
+66,Starbucks,8594-87964,"27001 US Hwy 19 N, Clearwater Mall",Clearwater,FL,337613402,-82.73,28.02
+67,Starbucks,2924-78341,"2719 Gulf to Bay Blvd, Suite 1120, Weisman Building",Clearwater,FL,337594951,-82.73,27.96
+68,Starbucks,8379-19581,"433 Cleveland Street, Countryside Mall",Clearwater,FL,337554004,-82.8,27.97
+69,Starbucks,11249-103362,2573 E Highway 50,Clermont,FL,347116051,-81.71,28.55
+70,Starbucks,76103-78187,2660 E Hwy 50,Clermont,FL,347116034,-81.7,28.55
+71,Starbucks,13969-109205,628 Cagan View Rd.,Clermont,FL,347146566,-81.68,28.36
+72,Starbucks,24560-224084,301 W Cocoa Beach Causeway,Cocoa Beach,FL,32931,-80.61,28.36
+73,Starbucks,75752-95744,4001 N Atlantic Ave,Cocoa Beach,FL,329313507,-80.61,28.36
+74,Starbucks,13493-105160,"4425 Lyons Rd, F-111",Coconut Creek,FL,330734385,-80.19,26.28
+75,Starbucks,9701-85182,"6111 Lyons Road, Space 101",Coconut Creek,FL,330734741,-80.19,26.3
+76,Starbucks,8254-137084,3015 Grand Ave,Coconut Grove,FL,331335102,-80.24,25.73
+77,Starbucks,19877-200964,"2550 S Bayshore Drive, Suite 101, Village of Merrick Park",Coconut Grove,FL,33133,-80.23,25.73
+78,Starbucks,75245-80249,"1350 Miller Drive, Rm #132",Coral Gables,FL,33124,-80.28,25.72
+79,Starbucks,8228-993,200 Miracle Mile,Coral Gables,FL,331345908,-80.26,25.75
+80,Starbucks,8256-1382,1122 S Dixie Hwy,Coral Gables,FL,331462901,-80.27,25.72
+81,Starbucks,19812-107345,1330 Miller Drive,Coral Gables,FL,33124,-80.28,25.72
+82,Starbucks,11784-104774,"475 South Dixie Hwy, Coral Square",Coral Gables,FL,331462202,-80.26,25.73
+83,Starbucks,22184-214324,9469 W Atlantic Blvd,Coral Springs,FL,33071,-80.25,26.24
+84,Starbucks,76831-108131,9600  Westview Dr,Coral Springs,FL,330762514,-80.25,26.3
+85,Starbucks,76905-98112,4400 N State Rd 7,Coral Springs,FL,330733353,-80.2,26.28
+86,Starbucks,17006-169464,6202 West Sample Road,Coral Springs,FL,33067,-80.21,26.27
+87,Starbucks,8281-1647,2800 University Drive,Coral Springs,FL,330655010,-80.25,26.27
+88,Starbucks,8494-62181,6051 Coral Ridge Dr,Coral Springs,FL,330763306,-80.28,26.31
+89,Starbucks,14328-112944,2520 S. Ferdon Blvd.,Crestview,FL,325368464,-86.57,30.73
+90,Starbucks,19033-185564,"19151 South Dixie Highway, Southland Mall",Cutler Bay,FL,33189,-80.36,25.59
+91,Starbucks,11040-103663,"20505 South Dixie Hwy, 1261",Cutler Bay,FL,331891229,-80.37,25.57
+92,Starbucks,76888-122708,5000 Grandview Pkwy,Davenport,FL,338372300,-81.64,28.23
+93,Starbucks,21823-206684,"2145 S University Drive, Davie Shopping Center",Davie,FL,33323,-80.25,26.1
+94,Starbucks,9695-91811,4751 S. University Drive,Davie,FL,333283819,-80.25,26.06
+95,Starbucks,76368-97220,5800 S University Dr,Davie,FL,333286102,-80.25,26.05
+96,Starbucks,2964-239093,"5796 S University Drive, 101",Davie,FL,33328,-80.25,26.05
+97,Starbucks,13970-109626,"1388 W International Speedway Boulevard, Suite 100",Daytona Beach,FL,32114,-81.06,29.2
+98,Starbucks,8443-209184,110 S. Ocean Ave,Daytona Beach,FL,32118,-81.01,29.22
+99,Starbucks,76336-89123,2380 W International Spdwy Blvd,Daytona Beach,FL,321141116,-81.08,29.18
+100,Starbucks,78092-119269,600 S Clyde Morris Blvd,Daytona Beach,FL,321143966,-81.05,29.19
+101,Starbucks,28075-247866,102 Dunlawton Blvd,Daytona Beach Shores,FL,32118,-80.97,29.15
+102,Starbucks,15488-157144,1200 S Federal Hwy,Deerfield Beach,FL,334417037,-80.09,26.3
+103,Starbucks,8426-38719,130 S. Federal Hwy.,Deerfield Beach,FL,334414128,-80.09,26.32
+104,Starbucks,21215-181738,3349 W. Hillsboro Blvd,Deerfield Beach,FL,33442,-80.15,26.32
+105,Starbucks,76904-128673,3599 W Hillsboro Blvd,Deerfield Beach,FL,334429404,-80.15,26.32
+106,Starbucks,27185-241709,2417 South Woodland Blvd,Deland,FL,32720,-81.3,28.99
+107,Starbucks,27030-239809,"7901 Atlantic Avenue, Suite 105",Delray Beach,FL,33446,-80.17,26.45
+108,Starbucks,13875-106507,"502 East Atlantic Ave, Lintco Shopping Center",Delray Beach,FL,334835324,-80.07,26.46
+109,Starbucks,21822-191184,"551 Linton Boulevard, Suite C1",Delray Beach,FL,33444,-80.08,26.44
+110,Starbucks,8455-44904,205 E Atlantic Avenue,Delray Beach,FL,334443726,-80.07,26.46
+111,Starbucks,8376-23235,"16850 Jog Rd, 111",Delray Beach,FL,334462383,-80.15,26.43
+112,Starbucks,8558-75466,"4140 LEGANDARY DR, Suite B105",Destin,FL,325415389,-86.42,30.39
+113,Starbucks,76435-95413,853 Harbor Blvd,Destin,FL,325412709,-86.48,30.39
+114,Starbucks,11250-103920,10410 US Hwy 98 West,Destin,FL,32550,-86.35,30.38
+115,Starbucks,10550-100278,7840 NW 25th St,Doral,FL,331221603,-80.32,25.8
+116,Starbucks,2751-87002,10690 NW 19th St,Doral,FL,331722542,-80.37,25.79
+117,Starbucks,21315-196345,11429 NW 41st Street,Doral,FL,33178,-80.38,25.81
+118,Starbucks,27184-241965,"1785 Main Street, Starbucks Coffee/AAFES",Dunedin,FL,34698,-82.76,28.02
+119,Starbucks,72113-5604,"1757 Memorial Trail, Bldg. 1757, Prime Outlets @ Ellenton",Eglin AFB,FL,32542,-86.53,30.47
+120,Starbucks,11680-105902,"5461 Factory Shops Blvd, 210",Ellenton,FL,342224100,-82.51,27.53
+121,Starbucks,8678-66662,"10801 Corkscrew Road, Suite 360",Estero,FL,339289443,-81.77,26.44
+122,Starbucks,9752-96115,8076 Mediterranean Dr Suite 111,Estero,FL,339288304,-81.81,26.4
+123,Starbucks,76869-127185,8040 Mediterranean Dr,Estero,FL,339288304,-81.81,26.41
+124,Starbucks,11481-233404,1453 Sadler Rd,Fernandina Beach,FL,32034,-81.45,30.64
+125,Starbucks,13939-108784,76 East Palm Dr,Florida City,FL,330343507,-80.48,25.45
+126,Starbucks,9642-95733,1600 South Andrews Ave,Fort Lauderdale,FL,333162510,-80.14,26.1
+127,Starbucks,8303-7947,10 S. Federal Highway,Fort Lauderdale,FL,333011935,-80.14,26.12
+128,Starbucks,72641-32299,7730 W Commercial Blvd,Fort Lauderdale,FL,333514301,-80.25,26.19
+129,Starbucks,22094-209644,3704 N. Ocean Blvd,Fort Lauderdale,FL,33308,-80.1,26.17
+130,Starbucks,8328-145164,2519 E. Sunrise Blvd,Fort Lauderdale,FL,333043203,-80.11,26.14
+131,Starbucks,22710-222689,100 Terminal Dr,Fort Lauderdale,FL,33315,-80.14,26.07
+132,Starbucks,8528-70121,1615 North Federal Highway,Fort Lauderdale,FL,333052528,-80.12,26.15
+133,Starbucks,22709-222704,100 Terminal Dr,Fort Lauderdale,FL,33315,-80.14,26.07
+134,Starbucks,10679-96815,1150 South Federal Hwy,Fort Lauderdale,FL,333161216,-80.14,26.11
+135,Starbucks,27563-247664,100 Terminal Drive,Fort Lauderdale,FL,33315,-80.14,26.07
+136,Starbucks,8302-11741,350 Las Olas Center,Fort Lauderdale,FL,333014211,-80.14,26.12
+137,Starbucks,16973-175144,4854 N. Federal Highway,Fort Lauderdale,FL,33308,-80.12,26.19
+138,Starbucks,8806-87001,1501 SE 17th St Causeway,Fort Lauderdale,FL,333161701,-80.13,26.1
+139,Starbucks,22708-222688,100 Terminal Dr,Fort Lauderdale,FL,33315,-80.14,26.07
+140,Starbucks,76106-85289,12801 W Sunrise Blvd,Fort Lauderdale,FL,333234020,-80.32,26.15
+141,Starbucks,75449-106095,3301 College Ave,Fort Lauderdale,FL,333147721,-80.24,26.08
+142,Starbucks,10233-99983,4450 Fowler Street,Fort Myers,FL,339012617,-81.86,26.6
+143,Starbucks,75776-93137,1600 Chamberlain Pkwy.,Fort Myers,FL,33913,-81.76,26.53
+144,Starbucks,10440-97315,1514 Broadway,Fort Myers,FL,339013007,-81.87,26.64
+145,Starbucks,21155-202904,"10010 University Plaza Drive, Suite 100",Fort Myers,FL,33913,-81.79,26.49
+146,Starbucks,76908-128674,15880 San Carlos Blvd,Fort Myers,FL,339083383,-81.94,26.51
+147,Starbucks,75774-93135,1600 Chamberlain Pkwy.,Fort Myers,FL,33913,-81.75,26.53
+148,Starbucks,19296-185805,"9011 Daniels Pkwy, Suite 101",Fort Myers,FL,33912,-81.81,26.55
+149,Starbucks,76474-97102,10000 Gulf Ctr Dr,Fort Myers,FL,339138961,-81.79,26.48
+150,Starbucks,75775-93136,1600 Chamberlain Pkwy.,Fort Myers,FL,33913,-81.76,26.53
+151,Starbucks,76913-128675,"3350 Forum Blvd, Edison Mall",Fort Myers,FL,339055578,-81.8,26.62
+152,Starbucks,11392-105407,"4125 Cleveland Ave, 1345",Fort Myers,FL,339019001,-81.87,26.6
+153,Starbucks,11482-104462,"3398 Forum Blvd, Unit 101",Fort Myers,FL,339055577,-81.8,26.62
+154,Starbucks,10152-99906,"8595 College Parkway, 340",Fort Myers,FL,339195191,-81.9,26.56
+155,Starbucks,10443-97030,"5100 Daniels Pkwy, 100",Fort Myers,FL,339121635,-81.87,26.55
+156,Starbucks,75445-106098,"10501 FGCU Blvd. S., 850-",Fort Myers,FL,33965,-81.79,26.48
+157,Starbucks,10589-101445,95 Eglin Parkway NE,Fort Walton Beach,FL,325484956,-86.61,30.42
+158,Starbucks,9906-96348,575 North Beal Parkway,Fort Walton Beach,FL,325483561,-86.64,30.43
+159,Starbucks,75594-10318,3030 Holiday Dr,Ft Lauderdale,FL,333162498,-80.11,26.11
+160,Starbucks,70323-114971,321 N Route A1A,Ft Lauderdale,FL,33304,-80.1,26.13
+161,Starbucks,76449-90933,13711 S Tamiami Trail,Ft Myers,FL,339121649,-81.87,26.54
+162,Starbucks,24675-238015,50 Terminal Dr,Ft. Lauderdale,FL,33315,-80.15,26.08
+163,Starbucks,25222-239186,50 Terminal Drive,Ft. Lauderdale,FL,33315,-80.14,26.07
+164,Starbucks,3895-108129,3200 N Federal Hwy,Ft. Lauderdale,FL,333061062,-80.12,26.17
+165,Starbucks,24847-217504,"2414 E. Sunrise Blvd., Union Street Station",Ft. Lauderdale,FL,33304,-80.12,26.14
+166,Starbucks,8330-9112,"201 SE First St, Suite 107/108",Gainesville,FL,326011824,-82.32,29.65
+167,Starbucks,8584-211506,"3524 SW Archer Road, 160",Gainesville,FL,32608,-82.38,29.62
+168,Starbucks,75472-108544,686 Museum Drive,Gainesville,FL,32611,-82.35,29.65
+169,Starbucks,10357-97314,"1520 NW 13th St, The Oaks Mall",Gainesville,FL,326014055,-82.34,29.67
+170,Starbucks,11394-105400,"6257 W NEWBERRY RD, F19",Gainesville,FL,326054305,-82.41,29.66
+171,Starbucks,10820-102905,"5200 NW 43rd St, 509",Gainesville,FL,326064484,-82.39,29.7
+172,Starbucks,75390-101183,1600 SW Archer Road,Gainesville,FL,326103003,-82.35,29.65
+173,Starbucks,75368-102413,"1600 SW Archer, The Oaks Mall",Gainesville,FL,326103003,-82.34,29.65
+174,Starbucks,8580-82626,6707 Newberry Road,Gainesville,FL,326054312,-82.41,29.66
+175,Starbucks,15132-145252,1140 Recreational Dining Center,Gainesville,FL,32611,-82.35,29.64
+176,Starbucks,23932-186045,1320 W University Ave,Gainesville,FL,32611,-82.34,29.65
+177,Starbucks,8355-16714,"4780 NW 39th Ave, Suite 9",Gainesville,FL,326066835,-82.39,29.69
+178,Starbucks,11611-104685,3991 Jog Rd,Greenacres,FL,334671514,-80.15,26.62
+179,Starbucks,20280-145255,5900 Lake Worth Rd,Greenacres,FL,334633212,-80.14,26.62
+180,Starbucks,19918-202884,1440 US Highway 1 S,Greenacres,FL,32084,-81.32,29.87
+181,Starbucks,3428-93236,346 Gulf Breeze Pkwy,Gulf Breeze,FL,325614492,-87.17,30.36
+182,Starbucks,21597-213264,3703 Gulf Breeze Pkwy,Gulf Breeze,FL,325633528,-87.07,30.39
+183,Starbucks,8550-74720,1805  E Hallandale Beach Blvd,Hallandale Beach,FL,330094619,-80.13,25.99
+184,Starbucks,76833-98119,1750 W 37th St,Hialeah,FL,330124687,-80.32,25.85
+185,Starbucks,13642-105164,7735 W 33rd Avenue,Hialeah,FL,330185068,-80.35,25.89
+186,Starbucks,27178-154067,"1777 W 49th St, Palm Springs Mile",Hialeah,FL,330122936,-80.32,25.87
+187,Starbucks,8868-90582,583 West 49th Street,Hialeah,FL,330123646,-80.29,25.87
+188,Starbucks,11609-104748,3305 Sheridan St,Hollywood,FL,330213606,-80.18,26.03
+189,Starbucks,8278-136430,"5355 Sheridan Street, Suite 63-B",Hollywood,FL,330213342,-80.2,26.03
+190,Starbucks,11251-103762,"1801 N. Young Circle, TBD",Hollywood,FL,330204613,-80.14,26.01
+191,Starbucks,20115-185804,"1750 SHERIDAN ST, Hollywood Plaza",Hollywood,FL,33020,-80.14,26.03
+192,Starbucks,8339-13546,"3267 Hollywood Blvd., Homestead Towne Square",Hollywood,FL,330216906,-80.17,26.01
+193,Starbucks,9702-95196,1029 North Homestead Blvd,Homestead,FL,330305028,-80.46,25.48
+194,Starbucks,2853-91800,2 5th Ave - Summit Bldg,Indialantic,FL,329033138,-80.57,28.09
+195,Starbucks,11717-105155,1918 Hwy A1A,Indian Harbor Beach,FL,329373523,-80.58,28.15
+196,Starbucks,29666-247325,"84001 Overseas Hwy, The Avenues",Islamorada,FL,33036,-80.61,24.94
+197,Starbucks,8537-52519,"2771 Monument Road, 41, Host Marriott/Starbucks Coffee",Jacksonville,FL,322255549,-81.5,30.36
+198,Starbucks,72334-5786,"2400 Yankee Clipper Drive, Ste. 206, N/A",Jacksonville,FL,322182490,-81.68,30.49
+199,Starbucks,8425-38679,"9661 San Jose Boulevard, Bartram Walk",Jacksonville,FL,322575433,-81.62,30.2
+200,Starbucks,9460-95429,"119 Bartram Oaks Walk, Suite 2",Jacksonville,FL,322593244,-81.62,30.12
+201,Starbucks,20079-202871,444 Monument Rd,Jacksonville,FL,32225,-81.55,30.33
+202,Starbucks,10501-100696,1044 Dunn Ave,Jacksonville,FL,322184830,-81.66,30.43
+203,Starbucks,8467-51479,"1650 Margaret Street, #1",Jacksonville,FL,322043868,-81.68,30.31
+204,Starbucks,8574-82627,"8221 Southside Blvd, Space 7",Jacksonville,FL,322560771,-81.55,30.22
+205,Starbucks,70087-139384,2400 Yankee Clipper Drive,Jacksonville,FL,322182492,-81.68,30.49
+206,Starbucks,2752-75323,8635 Blanding Blvd,Jacksonville,FL,322445798,-81.74,30.19
+207,Starbucks,70020-135152,2400 Yankee Clipper Drive,Jacksonville,FL,322182492,-81.68,30.49
+208,Starbucks,10502-100689,780 Nautica Drive,Jacksonville,FL,322187230,-81.64,30.48
+209,Starbucks,48694-254288,"2800 University Blvd N, Windsor Commons Shopping Center",Jacksonville,FL,32211,-81.6,30.35
+210,Starbucks,8365-19560,4765-1 Hodges Blvd,Jacksonville,FL,322245279,-81.47,30.26
+211,Starbucks,8468-164644,4804 Deer Lake Drive West,Jacksonville,FL,32246,-81.55,30.26
+212,Starbucks,8399-19561,13315 Atlantic Boulevard,Jacksonville,FL,322255569,-81.46,30.32
+213,Starbucks,8983-93120,"10281 Midtown Parkway, Suite 203",Jacksonville,FL,322467445,-81.53,30.26
+214,Starbucks,11483-104846,4413 Town Center Pkwy,Jacksonville,FL,322468568,-81.53,30.26
+215,Starbucks,24133-235484,"9660 Argyle Forest Boulevard, Unit #1",Jacksonville,FL,32222,-81.83,30.2
+216,Starbucks,8348-227744,4265 Roosevelt Blvd,Jacksonville,FL,32210,-81.72,30.29
+217,Starbucks,21922-209124,11441 San Jose Blvd,Jacksonville,FL,32223,-81.63,30.17
+218,Starbucks,8395-27707,1980 San Marco Blvd.,Jacksonville,FL,322073212,-81.65,30.3
+219,Starbucks,75369-101180,4567 St. Johns Bluff Road S,Jacksonville,FL,322242646,-81.51,30.27
+220,Starbucks,13514-107497,"14560 St Augustine Rd, Unit 2, The Avenues Mall",Jacksonville,FL,322582460,-81.53,30.14
+221,Starbucks,9585-87962,10300 Southside Boulevard,Jacksonville,FL,322560770,-81.55,30.18
+222,Starbucks,9697-97188,7153 Philips Highway,Jacksonville,FL,322566801,-81.6,30.24
+223,Starbucks,76726-106132,9525 Crosshill Blvd,Jacksonville,FL,322225812,-81.82,30.22
+224,Starbucks,76199-92544,6331 Roosevelt Blvd,Jacksonville,FL,322443303,-81.69,30.24
+225,Starbucks,76728-95027,"13740 Beach Blvd, Lakewood Plaza",Jacksonville,FL,322246033,-81.46,30.29
+226,Starbucks,8363-12119,1500-1 University Blvd W,Jacksonville,FL,322172006,-81.64,30.26
+227,Starbucks,8789-94812,"14355 Beach Blvd, St Johns Town Center",Jacksonville,FL,32224,-81.44,30.29
+228,Starbucks,76309-95261,4567 River City Dr,Jacksonville,FL,322467411,-81.52,30.26
+229,Starbucks,8686-93474,9940 Southside Blvd,Jacksonville,FL,322560783,-81.55,30.19
+230,Starbucks,9293-94816,"9301 Atlantic Blvd, Suite 101, University Pointe",Jacksonville,FL,322258259,-81.56,30.32
+231,Starbucks,8504-36120,5960-1 Beach Blvd,Jacksonville,FL,322075113,-81.6,30.29
+232,Starbucks,76393-91280,490 Marsh Landing Pkwy,Jacksonville Beach,FL,322505855,-81.39,30.25
+233,Starbucks,8565-202565,975 3rd Street South,Jacksonville Beach,FL,32250,-81.39,30.28
+234,Starbucks,19095-194425,10490 San Jose Blvd,Jacksonville Mandarin,FL,32257,-81.63,30.19
+235,Starbucks,22185-212165,3174 NW Federal Hwy,Jensen Beach,FL,34957,-80.27,27.24
+236,Starbucks,22266-215484,"287 E Indiantown Road, B-10",Jupiter,FL,33477,-80.09,26.93
+237,Starbucks,13565-104511,"2525 Military Trail, 101, Abacoa Plaza",Jupiter,FL,334587883,-80.1,26.91
+238,Starbucks,8465-37799,5500 Military Trail,Jupiter,FL,334582869,-80.11,26.88
+239,Starbucks,9876-97025,2770 W Indiantown Rd,Jupiter,FL,334584650,-80.14,26.93
+240,Starbucks,10358-98225,13604 N Kendall Dr,Kendall,FL,33186,-80.42,25.68
+241,Starbucks,9334-95735,200 Crandon Blvd,Key Biscayne,FL,331491567,-80.16,25.7
+242,Starbucks,10442-100255,99600 Overseas Highway,Key Largo,FL,330372454,-80.44,25.09
+243,Starbucks,24533-160468,"431 Front Street, Unit #6 & 7",Key West,FL,33040,-81.81,24.56
+244,Starbucks,22270-217884,2500 N Roosevelt Blvd,Key West,FL,33040,-81.78,24.56
+245,Starbucks,47488-234024,3820 N Roosevelt Blvd,Key West,FL,33040,-81.75,24.57
+246,Starbucks,75616-82491,430 Duval Street,Key West,FL,330406551,-81.8,24.56
+247,Starbucks,70344-139287,3200 Rolling Oaks Blvd,Kissimmee,FL,347473052,-81.62,28.33
+248,Starbucks,11039-103522,3721 West Vine Street,Kissimmee,FL,347414638,-81.44,28.3
+249,Starbucks,23760-222925,1041 Osceola Parkway,Kissimmee,FL,34741,-81.41,28.34
+250,Starbucks,13566-249307,6091 W. Irlo Bronson Memorial Hwy,Kissimmee,FL,34747,-81.53,28.33
+251,Starbucks,76249-95028,4795 W Irlo Bronson Mem Hwy,Kissimmee,FL,347465332,-81.47,28.33
+252,Starbucks,76436-96594,716 N US Hwy 441,Lady Lake,FL,321593194,-81.93,28.93
+253,Starbucks,10063-99659,874 N. Hwy 27/441,Lady Lake,FL,32159,-81.94,28.93
+254,Starbucks,26456-222744,1675 N Buena Vista Dr,Lake Buena Vista,FL,32830,-81.59,28.36
+255,Starbucks,19455-193146,1365 Monorail Way,Lake Buena Vista,FL,32830,-81.58,28.42
+256,Starbucks,21797-215384,"1680 E Buena Vista Dr, Downtown Disney",Lake Buena Vista,FL,32830,-81.52,28.37
+257,Starbucks,19775-193145,1400 Avenue of the Stars,Lake Buena Vista,FL,32830,-81.55,28.37
+258,Starbucks,19997-178306,"1501 East Buena Vista Dr., Downtown Di",LAKE BUENA VISTA,FL,32830,-81.52,28.37
+259,Starbucks,11996-105613,2511 W. US 90,Lake City,FL,320554727,-82.67,30.18
+260,Starbucks,26675-244912,910 International Parkway,Lake Mary,FL,32746,-81.36,28.78
+261,Starbucks,8269-240786,"850 South Sun Drive, Suite 100",Lake Mary,FL,32746,-81.35,28.76
+262,Starbucks,76400-93189,500 N Congress Ave,Lake Park,FL,334033802,-80.09,26.8
+263,Starbucks,10153-99276,514 Lake Ave,Lake Worth,FL,334603809,-80.05,26.62
+264,Starbucks,9494-244905,4291 N US HWY 98,Lakeland,FL,33809,-81.97,28.1
+265,Starbucks,3427-93471,2101 S Florida Ave,Lakeland,FL,338037224,-81.96,28.02
+266,Starbucks,11786-104964,4670 N. Socrum Loop Rd.,Lakeland,FL,338094203,-81.95,28.1
+267,Starbucks,2965-87260,1314 Town Center Drive S-102,Lakeland,FL,338037953,-81.98,28.0
+268,Starbucks,10064-98750,4720 S Florida Ave,Lakeland,FL,338132165,-81.96,27.98
+269,Starbucks,76143-89130,4005 Hwy 98 N,Lakeland,FL,338093815,-81.97,28.09
+270,Starbucks,8865-94499,2021 State Road 54,Land O Lake,FL,33549,-82.44,28.19
+271,Starbucks,2911-90584,"2401 East Bay Dr, 1",Largo,FL,337712473,-82.76,27.92
+272,Starbucks,11252-195525,8870 Ulmerton Rd,Largo,FL,33771,-82.76,27.89
+273,Starbucks,47112-254209,"10500 Ulmerton Road, Ste 800",Largo,FL,33771,-82.78,27.89
+274,Starbucks,13687-107579,13660 Walsingham Rd.,Largo,FL,337743532,-82.83,27.88
+275,Starbucks,8505-202285,7720 W Commercial Blvd,Lauderhill,FL,33351,-80.25,26.19
+276,Starbucks,8264-1465,"2425 West State Rd 434, Space #147, Tampa Premium Outlets",Longwood,FL,327793695,-81.41,28.69
+277,Starbucks,25767-134065,"2300 Grand Cypress Drive, Suite 101",Lutz,FL,33559,-82.39,28.19
+278,Starbucks,76806-98391,1040 Dale Mabry Hwy,Lutz,FL,335483004,-82.47,28.17
+279,Starbucks,14611-121465,2424 S. Hwy 77,Lynn Haven,FL,324444722,-85.65,30.22
+280,Starbucks,13607-107499,9200 SR 228,MacClenny,FL,32063,-82.11,30.26
+281,Starbucks,2754-82620,"254 N. Orlando Ave, 200",Maitland,FL,327515506,-81.36,28.63
+282,Starbucks,8570-224168,1080 N. Collier Blvd,Marco Island,FL,34145,-81.72,25.96
+283,Starbucks,9977-243805,6700 W Atlantic Blvd,Margate,FL,33063,-80.21,26.23
+284,Starbucks,10503-99771,340 Mary Esther Blvd,Mary Esther,FL,325691604,-86.65,30.42
+285,Starbucks,76540-99838,250 Miracle Strip Pkwy,Mary Esther,FL,32569,-86.72,30.41
+286,Starbucks,14075-108596,"1330 North Harbor City Blvd, Melbourne Square",Melbourne,FL,329357023,-80.63,28.13
+287,Starbucks,11398-105367,"1700 W NEW HAVEN AVE, 439",Melbourne,FL,329043919,-80.65,28.08
+288,Starbucks,11484-103540,3660 N. Wickham Rd.,Melbourne,FL,329352336,-80.67,28.16
+289,Starbucks,2963-91809,7351 Shoppes Dr,Melbourne,FL,329406663,-80.72,28.23
+290,Starbucks,76214-89126,2750 W New Haven Ave,Melbourne Village,FL,329043706,-80.67,28.08
+291,Starbucks,76950-128680,250 Crockett Blvd,Merritt Island,FL,329534395,-80.7,28.39
+292,Starbucks,19871-201505,175 E. Merritt Island Causeway,Merritt Island,FL,32952,-80.7,28.36
+293,Starbucks,16954-169424,"2501 SW 87th Avenue, Miami International Airport",Miami,FL,33165,-80.34,25.75
+294,Starbucks,72483-16199,4200 NW 21st Street,Miami,FL,331281984,-80.28,25.8
+295,Starbucks,8446-49399,14795 South Dixie Hwy.,Miami,FL,331767927,-80.34,25.63
+296,Starbucks,78026-108542,4525 Collins Avenue,Miami,FL,331403226,-80.12,25.82
+297,Starbucks,76359-95260,8350 S Dixie Hwy,Miami,FL,331437714,-80.3,25.69
+298,Starbucks,70006-120032,4250 NW 20th St,Miami,FL,33126,-80.27,25.79
+299,Starbucks,8227-994,"7708 North Kendall Drive, Space B5",Miami,FL,331567523,-80.32,25.69
+300,Starbucks,75909-101176,1201 NW LeJune Road,Miami,FL,331362315,-80.26,25.78
+301,Starbucks,16298-168844,"2100 NW 42nd Ave, Miami International Airport Concourse F",Miami,FL,33126,-80.26,25.79
+302,Starbucks,75787-153144,4200 NW 21st St,Miami,FL,331281984,-80.27,25.79
+303,Starbucks,24531-229124,11585 SW 40th Street,Miami,FL,33165,-80.38,25.73
+304,Starbucks,8273-838,5796 Sunset Drive,Miami,FL,331435332,-80.29,25.7
+305,Starbucks,13238-103927,16305 SW 88 Street,Miami,FL,331964942,-80.46,25.68
+306,Starbucks,19899-197804,199 NE 167th Street,Miami,FL,33162,-80.2,25.93
+307,Starbucks,9699-98045,12512 SW 120th St,Miami,FL,331869064,-80.4,25.66
+308,Starbucks,23496-214385,10101 W Flagler St,Miami,FL,33174,-80.36,25.77
+309,Starbucks,8323-3056,"401 Biscayne Blvd, #1270",Miami,FL,331321924,-80.19,25.78
+310,Starbucks,28862-237079,11401 NW 12th Street,Miami,FL,33172,-80.38,25.79
+311,Starbucks,24674-238611,2100 NW 42nd Ave.,Miami,FL,33126,-80.26,25.8
+312,Starbucks,75866-100757,100 Chopin Plaza,Miami,FL,331314342,-80.19,25.77
+313,Starbucks,75443-79685,11200 SW 8th St,Miami,FL,331992516,-80.38,25.76
+314,Starbucks,23053-170652,"1050 Caribbean Way, Dolphin Mall",Miami,FL,331322028,-80.18,25.78
+315,Starbucks,8506-62200,"901 South Miami Avenue, 106",Miami,FL,331303042,-80.19,25.77
+316,Starbucks,8294-3058,110 SE 3rd Ave,Miami,FL,331322218,-80.19,25.77
+317,Starbucks,11485-102045,12305 SW 137th Ave,Miami,FL,331867395,-80.42,25.65
+318,Starbucks,8548-69641,8888 SW 136th Street,Miami,FL,331765883,-80.34,25.64
+319,Starbucks,11749-104894,"8805 SW 107th Ave, Shoppes of Tamiami",Miami,FL,331761476,-80.36,25.69
+320,Starbucks,9394-95731,"14200 SW 8th St, Suite 101",Miami,FL,331843139,-80.43,25.76
+321,Starbucks,76617-99487,15005 SW 88th St,Miami,FL,331961314,-80.44,25.69
+322,Starbucks,22267-121004,"6702 Bird Road, #3",Miami,FL,33155,-80.3,25.73
+323,Starbucks,8507-211604,6320 Biscayne Blvd,Miami,FL,33138,-80.18,25.83
+324,Starbucks,76618-99489,7795 SW 40th St,Miami,FL,331568119,-80.32,25.68
+325,Starbucks,8296-2321,"8442 SW 8th Street, Building #1",Miami,FL,33144,-80.33,25.76
+326,Starbucks,17010-136621,1601 NW 10th Ave,Miami,FL,331361019,-80.21,25.79
+327,Starbucks,17086-169744,1690 NE Miami Gardens Drive,Miami,FL,33179,-80.17,25.95
+328,Starbucks,8306-5464,"9709-101 NW 41st Street, Bay 29a-b",Miami,FL,331782943,-80.35,25.81
+329,Starbucks,19197-137144,1400 NW 12th Ave,MIami,FL,331361003,-80.22,25.79
+330,Starbucks,13824-104866,2937 Biscayne Blvd,Miami,FL,33137,-80.19,25.81
+331,Starbucks,13940-107642,5711 NW 7th St,Miami,FL,331263105,-80.29,25.78
+332,Starbucks,10901-102594,14401 SW 42nd Street,Miami,FL,331757818,-80.43,25.73
+333,Starbucks,20628-195824,"7800 SW 104th St, Sunset Park Plaza",Miami,FL,33138,-80.19,25.87
+334,Starbucks,8267-1604,8660 SW 72nd Street,Miami,FL,331433734,-80.33,25.7
+335,Starbucks,8520-64961,7575 SW 88th Street,Miami,FL,331733562,-80.31,25.69
+336,Starbucks,17121-177164,2100 NW 42nd Ave,Miami,FL,33126,-80.26,25.79
+337,Starbucks,8238-998,6603 South Dixie Hwy,Miami,FL,331437919,-80.3,25.69
+338,Starbucks,47494-250731,901 NW 17th Street,MIAMI,FL,33136,-80.21,25.79
+339,Starbucks,8866-95192,17760 NW 57th Ave,Miami,FL,330155118,-80.29,25.93
+340,Starbucks,21306-157131,11212 SW 11th St,Miami,FL,33199,-80.38,25.76
+341,Starbucks,8419-1671,"11401 NW 12th St, Unit E-194, Miami International Mall",Miami,FL,331726904,-80.38,25.79
+342,Starbucks,19579-196225,1455 NW 107th Avenue,Miami,FL,33172,-80.37,25.79
+343,Starbucks,76722-98118,3111 N Miami Ave,Miami,FL,331273717,-80.19,25.81
+344,Starbucks,75786-96371,4200 NW 21st Street,Miami,FL,331281984,-80.26,25.77
+345,Starbucks,29828-247324,1080 Brickell  Ave.,Miami,FL,33130,-80.19,25.76
+346,Starbucks,8499-61300,"47 West Flagler Street, The Falls",Miami,FL,331301702,-80.19,25.77
+347,Starbucks,13736-107277,2645 SW 22nd St.,Miami,FL,33145,-80.24,25.75
+348,Starbucks,21216-183784,"827 West 41st Street, Unit #2",Miami Beach,FL,33140,-80.13,25.81
+349,Starbucks,8543-54279,959 West Avenue,Miami Beach,FL,331395201,-80.14,25.78
+350,Starbucks,75553-64359,161 Ocean Dr,Miami Beach,FL,331397212,-80.13,25.77
+351,Starbucks,8557-72544,416 Lincoln Rd.,Miami Beach,FL,331393003,-80.13,25.79
+352,Starbucks,8242-629,"1570 Alton Road, Suite A",Miami Beach,FL,331393344,-80.14,25.79
+353,Starbucks,10869-101766,1201 Washington Ave,Miami Beach,FL,331394613,-80.13,25.78
+354,Starbucks,76450-97602,14075 Biscayne Blvd,Miami Beach,FL,331811629,-80.16,25.91
+355,Starbucks,13007-96665,601 Lincoln Rd,Miami Beach,FL,331392915,-80.13,25.79
+356,Starbucks,8251-1325,749 Lincoln Road,Miami Beach,FL,331392813,-80.14,25.79
+357,Starbucks,76889-97603,5601 NW 183rd St,Miami Gardens,FL,330552305,-80.29,25.94
+358,Starbucks,8647-93470,8012 NW 154th St,Miami Lakes,FL,330165814,-80.33,25.91
+359,Starbucks,7964-95191,9488 NE 2nd Ave,Miami Shores,FL,331382703,-80.19,25.86
+360,Starbucks,11715-104770,52 Curtiss Pkwy,Miami Springs,FL,331665219,-80.28,25.82
+361,Starbucks,14678-115065,14673 Miramar Parkway,Miramar,FL,330276607,-80.34,25.98
+362,Starbucks,76114-79325,16901 Miramar Pkwy,Miramar,FL,330274528,-80.37,25.98
+363,Starbucks,8648-203906,"3100 Dykes Road, Grand Boulevard",Miramar,FL,33027,-80.36,25.98
+364,Starbucks,20846-195124,"780 Grand Blvd, 120, Loch Leven Landing",Miramar Beach,FL,32550,-86.31,30.38
+365,Starbucks,20007-192495,19021 US Hwy 441,Mount Dora,FL,32757,-81.64,28.82
+366,Starbucks,76488-97105,"17450 Hwy 441, RiverChase Shopping Center",Mount Dora,FL,327576748,-81.66,28.82
+367,Starbucks,8519-182087,11232 Tamiami Trail N,Naples,FL,341104801,-81.8,26.27
+368,Starbucks,26924-237046,"6839 Collier Blvd, Suite 101, 796 Fifth Avenue",Naples,FL,34114,-81.7,26.07
+369,Starbucks,8454-44639,"796 5th Avenue South, Suite #101, Magnolia Square",Naples,FL,341025504,-81.8,26.14
+370,Starbucks,9700-94110,"1427 Pine Ridge Rd, 101",Naples,FL,341092115,-81.79,26.21
+371,Starbucks,8481-61280,1 Tamiami Trail S,Naples,FL,34102,-81.8,26.15
+372,Starbucks,10726-102459,4810 Davis Blvd,Naples,FL,341045306,-81.75,26.14
+373,Starbucks,26974-239031,"8867 Immokalee Rd, unit 101, Waterside Shops at Pelican Bay",Naples,FL,34120,-81.69,26.27
+374,Starbucks,9829-97916,5505 North Tamiami Trail,Naples,FL,341082869,-81.8,26.21
+375,Starbucks,9694-233146,"7335 Radio Rd, Unit #1",Naples,FL,34104,-81.72,26.16
+376,Starbucks,10360-100614,"3370 Pine Ridge Rd, Coastland Center",Naples,FL,341093870,-81.75,26.21
+377,Starbucks,11042-103946,2004 Tamiami Trail North,Naples,FL,341024805,-81.8,26.17
+378,Starbucks,76216-90901,"2324 Pine Ridge Rd, Waterside Shops",Naples,FL,341092003,-81.77,26.21
+379,Starbucks,8400-28787,15495 N Tamiami Trail,Naples,FL,341106206,-81.81,26.31
+380,Starbucks,10359-97022,"2315 Vanderbilt Beach Rd, 308",Naples,FL,341092772,-81.77,26.24
+381,Starbucks,76768-101464,2415 Tarpon Bay Blvd,Naples,FL,341198764,-81.74,26.27
+382,Starbucks,75388-103765,250 SauFley Street - Building 630,Naval Station Pensacola,FL,325085147,-87.27,30.35
+383,Starbucks,13429-106387,327 Atlantic Blvd.,Neptune Beach,FL,322665255,-81.4,30.32
+384,Starbucks,14599-124265,5220 Little Rd,New Port Richey,FL,346551213,-82.67,28.24
+385,Starbucks,76270-95751,2900 Little Rd,New Port Richey,FL,346554420,-82.67,28.2
+386,Starbucks,13368-106958,5435 US Hwy 19,New Port Richey,FL,346523949,-82.73,28.24
+387,Starbucks,10590-97195,"12921 SW 1st Road, Suite 111",Newberry,FL,326695709,-82.48,29.66
+388,Starbucks,23389-148984,3000 NE 151st St,North Miami,FL,331813605,-80.14,25.91
+389,Starbucks,8430-27708,13503 Biscayne Blvd,North Miami Beach,FL,331811615,-80.16,25.9
+390,Starbucks,22269-215485,17739 Tamiami Trl,North Port,FL,34287,-82.21,27.04
+391,Starbucks,47122-254208,950 E Commercial Blvd,Oakland Park,FL,33334,-80.13,26.19
+392,Starbucks,76513-89103,2000 SW College Rd,Ocala,FL,344711620,-82.16,29.17
+393,Starbucks,8564-82624,2708 SW College Road,Ocala,FL,344744418,-82.17,29.16
+394,Starbucks,22186-212166,3100 SW College Rd,Ocala,FL,34474,-82.17,29.16
+395,Starbucks,13516-104847,4602 SW College Rd.,Ocala,FL,344745720,-82.2,29.14
+396,Starbucks,11997-254245,53 S Pine Avenue,Ocala,FL,34471,-82.14,29.19
+397,Starbucks,8597-87264,10300 W Colonial Dr,Ocoee,FL,347612959,-81.53,28.55
+398,Starbucks,11115-100850,16330 State Road 54,Odessa,FL,335563732,-82.55,28.19
+399,Starbucks,8561-69643,3180 Tampa Road,Oldsmar,FL,346772297,-82.7,28.05
+400,Starbucks,76218-89124,2575 Enterprise Rd,Orange City,FL,327637960,-81.29,28.92
+401,Starbucks,25467-239191,"890 Saxon Blvd, Suite 100",Orange City,FL,32763,-81.29,28.91
+402,Starbucks,9698-97192,629 Blanding Blvd,Orange Park,FL,320735035,-81.75,30.15
+403,Starbucks,17891-175724,"1490 County Rd 220, Fleming Island Shopping Center",Orange Park,FL,320037927,-81.72,30.1
+404,Starbucks,8372-19559,"1544 County Rd 220, Suite 100",Orange Park,FL,320034991,-81.71,30.1
+405,Starbucks,13643-107651,"13401 Blue Heron Beach Dr., Orlando Premium Outlet Mall",Orlando,FL,328216375,-81.5,28.37
+406,Starbucks,8369-17074,"8200 Vineland Ave, Suite 1106, Colonial Plaza Market Center",Orlando,FL,328216822,-81.49,28.39
+407,Starbucks,11400-105413,2604 E Colonial Market,Orlando,FL,328035023,-81.35,28.55
+408,Starbucks,11906-105108,"5555 Kirkman Rd., Kirkman Shoppes",Orlando,FL,328197933,-81.46,28.48
+409,Starbucks,8247-1242,5814 Conroy Windermere Rd,Orlando,FL,328353528,-81.46,28.49
+410,Starbucks,20281-150104,4000 Central Florida Blvd,Orlando,FL,32816,-81.2,28.6
+411,Starbucks,72332-5866,"9333 Airport Blvd., Florida Mall",Orlando,FL,328274334,-81.31,28.43
+412,Starbucks,11401-105410,"8001 S Orange Blossom Trail, 898A",Orlando,FL,328097654,-81.4,28.45
+413,Starbucks,19324-188524,5601 Universal Blvd,Orlando,FL,32819,-81.46,28.48
+414,Starbucks,11402-105390,"4200 Conroy Rd, Prime Outlets @ Orlando",Orlando,FL,328392400,-81.43,28.49
+415,Starbucks,13942-107984,"4965 Prime Outlets Oak Ridge Road, 2D.15, Florida Mall",Orlando,FL,32819,-81.45,28.47
+416,Starbucks,22894-212350,6000 Universal Blvd,Orlando,FL,32819,-81.46,28.47
+417,Starbucks,72333-84984,9333 Airport Blvd.,Orlando,FL,328274334,-81.31,28.43
+418,Starbucks,24718-227731,"12278 Narcoossee Rd., Suite 101",Orlando,FL,32827,-81.24,28.39
+419,Starbucks,75951-77281,6677 Sea Harbor Dr,Orlando,FL,328218007,-81.47,28.41
+420,Starbucks,76945-136622,120 W Grant St,Orlando,FL,328063932,-81.38,28.52
+421,Starbucks,75661-92421,9333 Airport Blvd.,Orlando,FL,328274334,-81.31,28.43
+422,Starbucks,16059-164885,325 S Orange Ave,Orlando,FL,328013711,-81.38,28.54
+423,Starbucks,14133-111893,457 Avalon Park N. Blvd,Orlando,FL,328286997,-81.15,28.54
+424,Starbucks,9459-94139,"3011 E Colonial Dr, Suite A, Waterford Lakes Town Center",Orlando,FL,328035005,-81.35,28.55
+425,Starbucks,8389-17094,895 Alafaya Trail,Orlando,FL,328287049,-81.21,28.56
+426,Starbucks,14254-113074,"6892 S. Orange Blossom Trail, Metro Crossings",Orlando,FL,32809,-81.4,28.47
+427,Starbucks,8337-13261,2573 South Kirkman Road,Orlando,FL,328112346,-81.46,28.52
+428,Starbucks,8375-13260,2453 S Orange Ave,Orlando,FL,328064543,-81.38,28.51
+429,Starbucks,75570-71581,4040 Central Florida Parkway,Orlando,FL,328377662,-81.43,28.4
+430,Starbucks,8556-53219,"4200 Conroy Rd., M-23",Orlando,FL,328392400,-81.43,28.49
+431,Starbucks,8627-94107,"4650 N Alafaya Trail, 103",Orlando,FL,328262300,-81.21,28.61
+432,Starbucks,8401-25227,"1915 Edgewater Drive, Suite A",Orlando,FL,328045803,-81.39,28.57
+433,Starbucks,19811-116532,1000 Universal Studio Plaza,Orlando,FL,328197601,-81.47,28.48
+434,Starbucks,76102-78190,4750 Millenia Plaza Way,Orlando,FL,328392434,-81.43,28.49
+435,Starbucks,70305-133905,"9333 Airport Blvd, Plaza Venezia",Orlando,FL,328274334,-81.31,28.43
+436,Starbucks,11706-105396,"7610 W SAND LAKE RD, B106",Orlando,FL,328195112,-81.49,28.45
+437,Starbucks,8263-1243,"7600 Dr. Phillips Road, Suite 98",Orlando,FL,328197238,-81.49,28.45
+438,Starbucks,21609-196364,"8013 International Dr, Suite 101",Orlando,FL,32819,-81.47,28.45
+439,Starbucks,8366-17075,13851 S. John Young Parkway,Orlando,FL,328375862,-81.42,28.37
+440,Starbucks,22048-194450,6550 Adventure Way,Orlando,FL,32819,-81.47,28.47
+441,Starbucks,75812-96091,5780 Major Blvd,Orlando,FL,328197953,-81.46,28.48
+442,Starbucks,78029-116531,"1000 Universal Blvd, Shadow Wood",Orlando,FL,32819,-81.47,28.48
+443,Starbucks,21729-196765,"10725 International Drive, Suite 110",Orlando,FL,32821,-81.46,28.41
+444,Starbucks,9875-95431,"6605 S. Semoran Blvd, Thornton Park Central",Orlando,FL,328223219,-81.31,28.47
+445,Starbucks,8404-7048,20 N. SUMMERLIN AVE,Orlando,FL,328012930,-81.37,28.54
+446,Starbucks,72643-32301,2155 Town Center Blvd,Orlando,FL,328376801,-81.41,28.37
+447,Starbucks,72165-11618,325 N Alafaya Trail,Orlando,FL,328287012,-81.2,28.55
+448,Starbucks,23471-216524,"599 S Chickasaw Trail, Orlando World Center Marriott",Orlando,FL,32825,-81.27,28.54
+449,Starbucks,72466-10319,"World Center Drive, Granada Plaza",Orlando,FL,32821,-81.51,28.36
+450,Starbucks,8466-41219,"247 East Granada Blvd, #6-31",Ormond Beach,FL,321766632,-81.04,29.29
+451,Starbucks,13943-109627,1425 W. Granada Blvd,Ormond Beach,FL,321748113,-81.11,29.26
+452,Starbucks,23308-222924,3607 Aloma Avenue,Oviedo,FL,32765,-81.26,28.62
+453,Starbucks,76217-89125,820 Oviedo Marketplace Blvd,Oviedo,FL,327659305,-81.24,28.66
+454,Starbucks,26676-244911,305 Mitchell Hammock Road,Oviedo,FL,32765,-81.2,28.66
+455,Starbucks,76804-108134,4727 US-90,Pace,FL,32571,-87.13,30.6
+456,Starbucks,9978-96506,"810 Palm Bay Rd., NE",Palm Bay,FL,329056349,-80.65,28.03
+457,Starbucks,11613-104895,"150 Worth Ave, Bay 110",Palm Beach,FL,334804433,-80.04,26.7
+458,Starbucks,8282-1898,"10925 N. Military Trail, Gardens Mall II",Palm Beach,FL,334106501,-80.11,26.84
+459,Starbucks,11253-102742,"3101 PGA Boulevard, E141",Palm Beach Gardens,FL,334102801,-80.09,26.85
+460,Starbucks,2910-91463,3866 Northlake Blvd,Palm Beach Gardens,FL,334031536,-80.1,26.81
+461,Starbucks,8274-1165,"3103 PGA Blvd., #L-201 and Kiosk location",Palm Beach Gardens,FL,334102801,-80.09,26.85
+462,Starbucks,2894-87003,"11600 US Hwy 1, The Gardens",Palm Beach Gardens,FL,33410,-80.06,26.85
+463,Starbucks,9828-98276,"6231 PGA Blvd, Suite 100",Palm Beach Gardens,FL,334184033,-80.13,26.84
+464,Starbucks,24719-215365,3036 SW Martin Downs Blvd,Palm City,FL,34990,-80.29,27.17
+465,Starbucks,76873-122706,"5100 E Hwy 100, Palm Harbor Shopping Center",Palm Coast,FL,321642365,-81.22,29.48
+466,Starbucks,10728-97680,216 Palm Coast Parkway NE,Palm Coast,FL,321378217,-81.21,29.56
+467,Starbucks,11682-104303,"30503 US Hwy 19 N, Unit B",Palm Harbor,FL,346844419,-82.74,28.05
+468,Starbucks,20077-202885,900 E Lake Rd,Palm Harbor,FL,34685,-82.71,28.06
+469,Starbucks,8335-211464,4978 Ridgemoor Blvd.,Palm Harbor,FL,34685,-82.69,28.1
+470,Starbucks,11905-104747,7290 SW 168th St.,Palmetto Bay,FL,331574845,-80.31,25.61
+471,Starbucks,8732-83810,2296-A Martin Luther King Blvd,Panama City,FL,32405,-85.65,30.19
+472,Starbucks,76701-104529,15555 Starfish St,Panama City Beach,FL,324132457,-85.88,30.22
+473,Starbucks,11718-102442,"600 Pier Park Dr., Suite 110",Panama City Beach,FL,324132179,-85.87,30.22
+474,Starbucks,75946-100144,"14700 Front Beach Road, Shoppes of Parkland",Panama City Beach,FL,324133519,-85.86,30.21
+475,Starbucks,8357-10800,7091 N State Road 7,Parkland,FL,330734524,-80.2,26.32
+476,Starbucks,76219-93184,11253 Pines Blvd,Pembroke Pines,FL,330264118,-80.3,26.01
+477,Starbucks,11345-101764,501 SW 145th Terrace,Pembroke Pines,FL,330271447,-80.34,26.0
+478,Starbucks,13828-108023,"9700 Pines Blvd, Pembroke Lakes Mall",Pembroke Pines,FL,330246228,-80.27,26.01
+479,Starbucks,11614-103834,"11401 Pines Blvd., 844, Flamingo Falls Town Center",Pembroke Pines,FL,330264117,-80.3,26.01
+480,Starbucks,8436-19163,"2026 North Flamingo Road, B12",Pembroke Pines,FL,330283500,-80.31,26.03
+481,Starbucks,11344-104461,15810 S. Pines Blvd,Pembroke Pines,FL,33027,-80.36,26.01
+482,Starbucks,8542-71640,5040 Bayou Blvd.,Pensacola,FL,325032504,-87.21,30.47
+483,Starbucks,70333-138008,2950 South Blue Angel Parkway,Pensacola,FL,325066905,-87.36,30.36
+484,Starbucks,75399-103763,"123 Fred Bauer St., Bldg. 630",Pensacola,FL,32508,-87.28,30.35
+485,Starbucks,13466-106745,"1701 E. Nine Mile Rd., Cordova Mall",Pensacola,FL,325145729,-87.23,30.53
+486,Starbucks,11043-91782,"5100 North 9th Avenue, H818",Pensacola,FL,325048735,-87.21,30.47
+487,Starbucks,25842-238006,"10015 N Davis Hwy, 100",Pensacola,FL,32514,-87.22,30.54
+488,Starbucks,13876-108432,"2200 W. Nine Mile Rd., Unit B",Pensacola,FL,325349415,-87.31,30.53
+489,Starbucks,11615-104850,5145 Bayou Blvd.,Pensacola,FL,325032101,-87.22,30.47
+490,Starbucks,18179-182665,1749 E Nine Mile Rd.,Pensacola,FL,32514,-87.22,30.53
+491,Starbucks,8392-164645,"12225 S Dixie Hwy, Shoppes of Pine Crest",Pinecrest,FL,331564445,-80.33,25.66
+492,Starbucks,8470-23232,"9001 S. Dixie Highway, unit #9055",Pinecrest,FL,331561600,-80.31,25.69
+493,Starbucks,9696-97190,7350 US Hwy 19 North,Pinellas Park,FL,337814600,-82.68,27.84
+494,Starbucks,29342-252905,7299 Park Blvd.,Pinellas Park,FL,33781,-82.74,27.84
+495,Starbucks,76448-97114,7150 US 19 N,Pinellas Park,FL,337814602,-82.68,27.84
+496,Starbucks,11254-103276,2701 Thonotosassa Rd.,Plant City,FL,335631456,-82.15,28.03
+497,Starbucks,3429-93432,"1891 North Pine Island Road, Plantation Towne Square",Plantation,FL,333225204,-80.27,26.15
+498,Starbucks,8368-15653,"6981 W Broward Blvd, Ste 3A, Broward",Plantation,FL,333172917,-80.24,26.12
+499,Starbucks,8226-996,"827 Nob Hill Road, Pompano Plaza",Plantation,FL,333241038,-80.29,26.13
+500,Starbucks,8476-57419,423 S. Federal Highway,Pompano Beach,FL,330625901,-80.1,26.23
+501,Starbucks,8417-30215,1800 N. Federal Highway,Pompano Beach,FL,330621034,-80.1,26.25
+502,Starbucks,8509-177984,"2 Fairfield Boulevard, #12",Ponte Vedra,FL,320824621,-81.38,30.19
+503,Starbucks,75728-95019,"1000 Pga Tour Blvd, Port Charlotte",Ponte Vedra Beach,FL,320823036,-81.39,30.2
+504,Starbucks,11408-105411,"1441 Tamiami TRL, 635",Port Charlotte,FL,339481098,-82.15,27.01
+505,Starbucks,76152-89122,1400A Tamiami Trail,Port Charlotte,FL,339481004,-82.14,27.01
+506,Starbucks,14313-114584,925 Kings Hwy,Port Charlotte,FL,339804248,-82.05,27.02
+507,Starbucks,76108-79280,1771 Dunlawton Ave,Port Orange,FL,321274757,-81.03,29.11
+508,Starbucks,17382-171724,1731 Dunlawton Ave #101,Port Orange,FL,32127,-81.03,29.11
+509,Starbucks,11409-105351,"9409 US Highway 19, 207",Port Richey,FL,34668,-82.71,28.29
+510,Starbucks,2912-91465,1789 NW St. Lucie West Blvd,Port St. Lucie,FL,349862501,-80.41,27.31
+511,Starbucks,76791-106134,10720 SW Village Parkway,Port St. Lucie,FL,349872188,-80.43,27.27
+512,Starbucks,13829-108665,10716 Big Bend Rd,Riverview,FL,33569,-82.33,27.79
+513,Starbucks,76772-108135,"10290 Bloomingdale Ave, Winthrop Town Centre",Riverview,FL,335783659,-82.33,27.9
+514,Starbucks,10235-112366,"6042 Winthrop Town Centre Ave., Space 326",Riverview,FL,335784212,-82.32,27.89
+515,Starbucks,24221-227666,3715 S US Highway 301,Riverview,FL,33578,-82.35,27.91
+516,Starbucks,11907-106878,"3820 Murrell Road, Village of Royal Palm",Rockledge,FL,329554741,-80.72,28.29
+517,Starbucks,8431-37760,561 N. State Rd. (US 441),Royal Palm Beach,FL,334113524,-80.2,26.69
+518,Starbucks,11255-100617,"11081 Southern Blvd., Bay 100, The Shoppes at Harbour Pointe",Royal Palm Beach,FL,334114251,-80.22,26.68
+519,Starbucks,10729-102032,"100 Main St, Anastasia Plaza",Safety Harbor,FL,346953657,-82.69,27.99
+520,Starbucks,8484-54459,"1047 A1A Beach Blvd., Suite #18",Saint Augustine,FL,32080,-81.27,29.83
+521,Starbucks,11617-104966,"155 Palencia Village Dr., Suite 101",Saint Augustine,FL,320958450,-81.39,30.01
+522,Starbucks,13645-107355,105 Fireworks Alley,Saint Augustine,FL,320921750,-81.5,30.06
+523,Starbucks,14315-115145,4850 Park St.,Saint Petersburg,FL,337092226,-82.75,27.82
+524,Starbucks,14076-112684,8801 4th St N.,Saint Petersburg,FL,337023123,-82.64,27.85
+525,Starbucks,9396-94820,"6575 Central Avenue, Tyrone Square Mall",Saint Petersburg,FL,337108412,-82.73,27.77
+526,Starbucks,11416-105350,6901 22nd Ave N.,Saint Petersburg,FL,337103943,-82.73,27.79
+527,Starbucks,8535-67942,"900 4th Street North, A",Saint Petersburg,FL,33701,-82.64,27.78
+528,Starbucks,8440-169484,2186 Tyrone Blvd North,Saint Petersburg,FL,337104024,-82.73,27.79
+529,Starbucks,11256-104287,"4946 4th St., N, Space 400",Saint Petersburg,FL,337033835,-82.64,27.82
+530,Starbucks,2852-90585,2577 Ulmerton Rd,Saint Petersburg,FL,337623340,-82.67,27.89
+531,Starbucks,8353-14110,199 1st Ave. North,Saint Petersburg,FL,337013301,-82.64,27.77
+532,Starbucks,27315-241068,1200 Red Cleveland Blvd,Sanford,FL,32773,-81.24,28.78
+533,Starbucks,76308-96580,"1201 W P Ball Blvd, Sarasota Square Mall",Sanford,FL,32771,-81.33,28.8
+534,Starbucks,11413-105353,"8201 S TAMIAMI TRL, A9",Sarasota,FL,342382966,-82.49,27.23
+535,Starbucks,10444-209785,3604 84th Ave Circle East,Sarasota,FL,34243,-82.52,27.39
+536,Starbucks,76755-108138,5350 Fruitville Rd,Sarasota,FL,342326401,-82.46,27.34
+537,Starbucks,2966-93238,4321 S. Tamiami Trail,Sarasota,FL,342313451,-82.53,27.29
+538,Starbucks,8562-73940,5485 University Pkwy,Sarasota,FL,342012012,-82.46,27.39
+539,Starbucks,28863-251585,8394 S Tamiami Trail,Sarasota,FL,34238,-82.5,27.23
+540,Starbucks,23751-206987,110 University Town Center Dr,Sarasota,FL,34243,-82.45,27.39
+541,Starbucks,8629-91462,"1401 First Street, 1020",Sarasota,FL,342365709,-82.54,27.34
+542,Starbucks,8435-21421,3571 Bee Ridge Rd,Sarasota,FL,342397234,-82.5,27.3
+543,Starbucks,8596-204984,5825 Derek Avenue,Sarasota,FL,34238,-82.48,27.27
+544,Starbucks,15716-160148,"3700 Cattleman Rd, Sarasota -  UTC",Sarasota,FL,34232,-82.45,27.3
+545,Starbucks,76720-97612,101 N Cattleman Rd,Sarasota,FL,342434700,-82.46,27.39
+546,Starbucks,22554-210485,"140 University Town Center Drive, Midtown Plaza Shopping Center",Sarasota,FL,34234,-82.45,27.38
+547,Starbucks,8308-7907,1375 South Tamiami Trail,Sarasota,FL,342392210,-82.53,27.32
+548,Starbucks,75983-108398,6024 Airport Circle,Sarasota,FL,342432140,-82.55,27.39
+549,Starbucks,76215-90932,8401 S Tamiami Trail,Sarasota,FL,342382927,-82.49,27.23
+550,Starbucks,8649-93119,"443 John Ringling Blvd, E",Sarasota,FL,342361427,-82.58,27.32
+551,Starbucks,8687-94138,5329 Fruitville Rd,Sarasota,FL,342326402,-82.46,27.34
+552,Starbucks,13239-104281,1768 US 27 N.,Sebring,FL,338701921,-81.49,27.5
+553,Starbucks,26677-244909,"7398 Seminole Blvd., Bardmoor Village",Seminole,FL,33772,-82.79,27.84
+554,Starbucks,10021-99441,10801 Starkey Rd,Seminole,FL,337771159,-82.76,27.87
+555,Starbucks,8271-1182,"1455 Ocean Drive, Suite 100",South Beach,FL,331394133,-80.13,25.79
+556,Starbucks,3862-141144,3101 Aerial Way,Spring Hill,FL,346040629,-82.6,28.5
+557,Starbucks,76369-97115,4401 Commercial Way,Spring Hill,FL,346061914,-82.59,28.5
+558,Starbucks,24561-227685,2345 S.R. 16,St Augustine,FL,32084,-81.41,29.92
+559,Starbucks,75784-95931,333 1st St S,St Petersburg,FL,337014342,-82.63,27.77
+560,Starbucks,27891-247865,4108 13th Street,St. Cloud,FL,34769,-81.31,28.25
+561,Starbucks,76753-108139,"4450 Park St, Tyrone Square",St. Petersburg,FL,337094020,-82.76,27.81
+562,Starbucks,26194-240788,"10195 Bay Pines Blvd, Suite 101",St. Petersburg,FL,33708,-82.78,27.81
+563,Starbucks,8864-93473,2537 NW Federal Hwy,Stuart,FL,349949315,-80.27,27.24
+564,Starbucks,76770-108133,2650 NW Federal Hwy,Stuart,FL,349949318,-80.27,27.23
+565,Starbucks,13610-105966,5932 Southeast Federal Hwy,Stuart,FL,349977850,-80.21,27.13
+566,Starbucks,8867-93595,2294 SE Federal Hwy,Stuart,FL,349944554,-80.24,27.18
+567,Starbucks,8290-2302,"17100 Collins Avenue, #101",Sunny Isles Beach,FL,331603675,-80.12,25.93
+568,Starbucks,13240-106100,"101 NW 136TH Ave, Sawgrass Mills- Regional Mall",Sunrise,FL,333252643,-80.33,26.12
+569,Starbucks,8802-82468,"12801 W. Sunrise Blvd, Sawgrass Mills",Sunrise,FL,333234020,-80.32,26.15
+570,Starbucks,2750-80620,"13755 West Sunrise Blvd, Building 2",Sunrise,FL,333233211,-80.33,26.15
+571,Starbucks,8301-7028,3551 N. University Dr.,Sunrise,FL,333516723,-80.26,26.17
+572,Starbucks,19090-195125,9560 Harding Avenue,Surfside,FL,33154,-80.12,25.89
+573,Starbucks,9555-94584,3425 Thomasville Road,Tallahassee,FL,323093493,-84.25,30.5
+574,Starbucks,76153-90927,2120 Apalachee Pkwy,Tallahassee,FL,323014819,-84.24,30.43
+575,Starbucks,21593-211945,110 N WOodward Ave,Tallahassee,FL,32306,-84.3,30.44
+576,Starbucks,8804-93689,1703 W Tennessee,Tallahassee,FL,323043436,-84.31,30.45
+577,Starbucks,75456-107890,902 - 904 Wildwood Drive,Tallahassee,FL,323048044,-84.3,30.44
+578,Starbucks,23514-230844,3844 N. Monroe St.,Tallahassee,FL,32303,-84.33,30.5
+579,Starbucks,13569-107656,"2887 Kerry Forest Pkwy., Suite 500, Governor's Square",Tallahassee,FL,323124863,-84.23,30.54
+580,Starbucks,11414-105365,"1500 APALACHEE PKWY, 1460",Tallahassee,FL,323013055,-84.25,30.44
+581,Starbucks,5096-147004,116 Honors Way,Tallahassee,FL,32306,-84.3,30.44
+582,Starbucks,76310-95268,3751 Bradfordville Rd,Tallahassee,FL,323091943,-84.22,30.56
+583,Starbucks,24562-223704,"222 S Magnolia Drive, Suite 101",Tallahassee,FL,32301,-84.26,30.44
+584,Starbucks,8552-75465,2264-1 North Monroe Street,Tallahassee,FL,323034789,-84.29,30.47
+585,Starbucks,22769-217408,608 W. Tennesee Street,Tallahassee,FL,32304,-84.29,30.44
+586,Starbucks,11348-104968,"3551 Blairstone Rd., S",Tallahassee,FL,323018826,-84.24,30.4
+587,Starbucks,8538-67943,3409 Bay to Bay Blvd.,Tampa,FL,336297042,-82.5,27.92
+588,Starbucks,27628-236910,"1501 E. Fowler Ave., International Plaza",Tampa,FL,33612,-82.44,28.05
+589,Starbucks,29545-252805,4100 George J Bean Pkwy,Tampa,FL,33607,-82.54,27.97
+590,Starbucks,15732-158664,10002 N. Dale Mabry Hwy,Tampa,FL,33618,-82.51,28.04
+591,Starbucks,76807-108137,11627 W Hillsborough Ave,Tampa,FL,336359736,-82.61,28.02
+592,Starbucks,20663-200072,"211 North Tampa Str, Citrus Park Mall",Tampa,FL,33602,-82.46,27.95
+593,Starbucks,8485-57681,401 South Dale Mabry highway,Tampa,FL,336092820,-82.51,27.94
+594,Starbucks,20080-202872,15240 N. Dale Mabry Hwy,Tampa,FL,33618,-82.5,28.09
+595,Starbucks,24253-217326,2720 W. Dr. Martin Luther King Blvd.,Tampa,FL,33607,-82.49,27.98
+596,Starbucks,47438-252406,4100 George J Bean Pkwy,Tampa,FL,33607,-82.54,27.97
+597,Starbucks,21217-197264,13210 Bruce B Downs Blvd,Tampa,FL,33612,-82.43,28.07
+598,Starbucks,29471-252804,4100 George J Bean Pkwy,Tampa,FL,33607,-82.54,27.97
+599,Starbucks,75234-73821,"1 Tampa General Circle, Davis Island",Tampa,FL,336063571,-82.46,27.94
+600,Starbucks,14316-104302,1600 W Kennedy Blvd,Tampa,FL,336061845,-82.48,27.94
+601,Starbucks,25468-239189,"2013 N. Dale Mabry, West Park Village Town Center",Tampa,FL,33607,-82.51,27.96
+602,Starbucks,8457-46799,"10118 Montague Blvd., Suite #18",Tampa,FL,33626,-82.6,28.04
+603,Starbucks,10065-98748,3619 West Gandy Blvd,Tampa,FL,336112607,-82.5,27.89
+604,Starbucks,8295-3088,715 South Howard St,Tampa,FL,336062468,-82.48,27.94
+605,Starbucks,75904-97613,513 S Florida Ave,Tampa,FL,336025419,-82.46,27.94
+606,Starbucks,8384-19164,225 Westshore Plaza,Tampa,FL,336091810,-82.53,27.95
+607,Starbucks,8312-5448,1508 North Westshore Blvd.,Tampa,FL,336074506,-82.52,27.96
+608,Starbucks,76401-95750,1544 N Dale Mabry Hwy,Tampa,FL,336072551,-82.51,27.96
+609,Starbucks,8593-87963,"7968 Citrus Park Town Ctr Mall, The Hidden River Collection",Tampa,FL,336253179,-82.58,28.07
+610,Starbucks,8514-62705,"8229 Parkedge Drive, AMC Veteran 24",Tampa,FL,336371101,-82.37,28.07
+611,Starbucks,8437-15873,9222 Anderson Road,Tampa,FL,33634,-82.54,28.03
+612,Starbucks,75813-96830,7627 W Courtney Campbell Causeway,Tampa,FL,336071431,-82.57,27.97
+613,Starbucks,8299-3089,5006 E Fowler,Tampa,FL,336172146,-82.4,28.05
+614,Starbucks,29630-252407,4100 George J Bean Pkwy,Tampa,FL,33607,-82.54,27.97
+615,Starbucks,9737-96123,"502 E. Hillsborough Avenue, Town Square Shopping Center",Tampa,FL,336047042,-82.45,28.0
+616,Starbucks,8428-28454,118 South Westshore Blvd,Tampa,FL,336092539,-82.52,27.94
+617,Starbucks,10025-98747,12998 Race Track Rd,Tampa,FL,336261305,-82.63,28.07
+618,Starbucks,76754-108136,6295 W  Waters Ave,Tampa,FL,336341100,-82.55,28.03
+619,Starbucks,75205-92860,"4202 E Fowler Ave, International Plaza",Tampa,FL,336209998,-82.41,28.05
+620,Starbucks,8458-17095,"2223 N. Westshore Blvd., K-100",Tampa,FL,336071411,-82.52,27.96
+621,Starbucks,8456-38739,17525 Preserve Walk Lane,Tampa,FL,336473244,-82.37,28.13
+622,Starbucks,47490-252405,4100 George J Bean Pkwy,Tampa,FL,33607,-82.54,27.97
+623,Starbucks,8277-1716,"14394 N. Dale Mabry Hwy., Ste. 10",Tampa,FL,336182018,-82.51,28.08
+624,Starbucks,3787-138044,"4202 E Fowler Ave, AXA0094",Tampa,FL,336209998,-82.41,28.05
+625,Starbucks,8117-95190,8602 Hillsborough Ave,Tampa,FL,336153811,-82.58,28.0
+626,Starbucks,24501-217604,820 West North A St,Tampa,FL,33606,-82.47,27.94
+627,Starbucks,3482-90583,40908 US Highway 19 North,Tarpon Springs,FL,346895446,-82.74,28.14
+628,Starbucks,8949-94106,966 Old Mill Run,The Villages,FL,321621675,-81.97,28.91
+629,Starbucks,76793-108132,3055 Columbia Blvd,Titusville,FL,327807865,-80.84,28.55
+630,Starbucks,27801-247008,3570 Cheney Highway,Titusville,FL,32780,-80.85,28.55
+631,Starbucks,2816-85943,15951 Sheridan St,Town of Southwest Ranches,FL,333313491,-80.36,26.03
+632,Starbucks,2967-240785,"2914 Little Road, A",Trinity,FL,34655,-82.67,28.2
+633,Starbucks,76665-99836,"4271 S Tamiami Trail, Sivertsen Commercial Bldg.",Venice,FL,342935131,-82.39,27.05
+634,Starbucks,9976-96246,1500 US Hwy 41 By-Pass South,Venice,FL,34293,-82.43,27.08
+635,Starbucks,11117-103541,"6280 20th Street, Suite A",Vero Beach,FL,329667675,-80.46,27.64
+636,Starbucks,10023-89562,1235 US Hwy 1,Vero Beach,FL,329605729,-80.39,27.62
+637,Starbucks,76566-101465,5800 20th St,Vero Beach,FL,329661017,-80.45,27.64
+638,Starbucks,76247-79330,8455 N Wickham Rd,Viera,FL,329406607,-80.72,28.23
+639,Starbucks,10591-101305,"12840 West Forest Hills Blvd, Shoppes of Wellington Green",Wellington,FL,334144708,-80.25,26.67
+640,Starbucks,8432-19319,10580 Forest Hill Blvd.,Wellington,FL,33414,-80.21,26.65
+641,Starbucks,76715-97107,"5900 State Rd 7, The Mall at Wellington Green",Wellington,FL,334495404,-80.2,26.59
+642,Starbucks,8387-10801,"10300 W Forrest Hill Blvd, #126",Wellington,FL,334143122,-80.21,26.65
+643,Starbucks,13497-105286,1800 Bruce B Downs Blvd.,Wesley Chapel,FL,335448632,-82.35,28.18
+644,Starbucks,72660-64959,1201 County Road 581,Wesley Chapel,FL,33543,-82.36,28.17
+645,Starbucks,3864-141145,4305 Norfolk Parkway Ste 103,West Melbourne,FL,329048604,-80.67,28.04
+646,Starbucks,8807-91806,"1675 W. New Haven, Wellington Greene",West Melbourne,FL,329043907,-80.65,28.08
+647,Starbucks,72433-5017,"Palm Beach Int'l Airport, Bldg 1000 Suite 124",West Palm Beach,FL,33406,-80.09,26.69
+648,Starbucks,75706-94077,"Belvedere Rd., Bldg 1000, Ste 124",West Palm Beach,FL,33406,-80.09,26.66
+649,Starbucks,76248-95029,10155 Okeechobee Blvd,West Palm Beach,FL,334111404,-80.2,26.71
+650,Starbucks,14230-108984,1870 Okeechobee Blvd,West Palm Beach,FL,334094123,-80.08,26.71
+651,Starbucks,8283-1909,"600 S. Rosemary Ave., 140",West Palm Beach,FL,334016314,-80.06,26.71
+652,Starbucks,8258-1536,226 Clematis St.,West Palm Beach,FL,334015513,-80.05,26.71
+653,Starbucks,5092-145254,1760 Palm Beach Lakes Blvd,West Palm Beach,FL,334012082,-80.09,26.72
+654,Starbucks,22553-211424,"1815 Palm Beach Lakes Boulevard, 5, Palm Beach Int'l Airport",West Palm Beach,FL,33401,-80.09,26.72
+655,Starbucks,72434-4617,"Palm Beach Int'l Airport, Bldg 1000, Suite 124",West Palm Beach,FL,33406,-80.09,26.69
+656,Starbucks,8380-12122,"1739 Main St, Weston Lakes Plaza",Weston,FL,333263668,-80.38,26.1
+657,Starbucks,8236-995,310 Indian Trace Road,Weston,FL,333262996,-80.39,26.12
+658,Starbucks,8576-82240,4503 Weston Road,Weston,FL,333313139,-80.36,26.07
+659,Starbucks,11908-102044,1015 NE 26th St,Wilton Manors,FL,333051243,-80.13,26.16
+660,Starbucks,76819-111304,3343 Daniels Rd,Winter Garden,FL,347877009,-81.6,28.52
+661,Starbucks,13877-105103,"3310 Daniels Rd, Suite 114",Winter Garden,FL,347877020,-81.59,28.52
+662,Starbucks,18418-179224,131 Landings BLVD,Winter Haven,FL,33880,-81.73,28.0
+663,Starbucks,76399-96269,3770 N Goldenrod Rd,Winter Park,FL,327928832,-81.29,28.6
+664,Starbucks,8586-221545,2519 Aloma Ave,Winter Park,FL,32792,-81.32,28.6
+665,Starbucks,8343-14231,400 Park Avenue,Winter Park,FL,327894352,-81.35,28.59
+666,Starbucks,49413-266013,440 N. ORLANDO AVE.,WINTER PARK,FL,32789,-81.37,28.6
+667,Starbucks,10362-97313,"7420 University Blvd, Winter Park Village",Winter Park,FL,327928881,-81.29,28.6
+668,Starbucks,8284-185364,600 N Orlando Ave,Winter Park,FL,327892916,-81.36,28.6
+669,Starbucks,8279-1244,1400 Tuskawilla Road,Winter Springs,FL,32708,-81.27,28.65
+670,Starbucks,76599-98120,463737 State Rd 200,Yulee,FL,320978652,-81.56,30.63
+671,Starbucks,10824-102587,463749 SR 200,Yulee,FL,32097,-81.55,30.63
+1,Starbucks,3509-142865,2055 Airport Hwy,Alcoa,TN,377013316,-83.99,35.81
+2,Starbucks,11293-104144,121 Cusick Rd,Alcoa,TN,377013125,-83.98,35.81
+3,Starbucks,8928-95178,5253 Hickory Hollow Pkwy,Antioch,TN,370133003,-86.66,36.05
+4,Starbucks,18985-190184,"917 Decatur Pike, Stage Centre",Athens,TN,37303,-84.61,35.45
+5,Starbucks,8402-13859,2955 Kirby-Whitten Pkwy,Bartlett,TN,38134,-89.84,35.21
+6,Starbucks,8444-27050,8121 Highway 100,Bellevue,TN,372214213,-86.96,36.04
+7,Starbucks,76417-95742,780 Old Hickory Blvd,Brentwood,TN,370274527,-86.78,36.04
+8,Starbucks,11203-103818,"6680 Nolensville Road, Lot 3/ Mill Towne Center",Brentwood,TN,370278803,-86.69,36.0
+9,Starbucks,9778-97231,198 Westpark Drive,Brentwood,TN,370275003,-86.8,36.04
+10,Starbucks,8338-7609,269 Franklin Road,Brentwood,TN,370275214,-86.79,36.03
+11,Starbucks,3839-147944,615 McCallie Ave,Chattanooga,TN,37403,-85.3,35.05
+12,Starbucks,75646-87982,827 Broad St,Chattanooga,TN,374022622,-85.31,35.05
+13,Starbucks,2870-92742,1951 Gunbarrel Rd,Chattanooga,TN,374213106,-85.16,35.03
+14,Starbucks,11818-105040,2217 Hamilton Place Blvd,Chattanooga,TN,374216005,-85.16,35.04
+15,Starbucks,75182-82497,975 East 3rd Street,Chattanooga,TN,374032147,-85.29,35.05
+16,Starbucks,11069-103668,"5610 Brainerd Rd, Hamilton Place",Chattanooga,TN,374115310,-85.21,35.01
+17,Starbucks,16527-155466,601 College St,Clarksville,TN,370440001,-87.35,36.53
+18,Starbucks,23399-229305,1674 Ft Campbell Blvd,Clarksville,TN,37042,-87.41,36.58
+19,Starbucks,10845-102017,2235 Madison Street,Clarksville,TN,370435287,-87.27,36.51
+20,Starbucks,23474-230264,2141 Wilma Rudolph Blvd,Clarksville,TN,37040,-87.31,36.56
+21,Starbucks,9927-98925,100 South Hampton,Clarksville,TN,370405033,-87.29,36.59
+22,Starbucks,10211-99817,653 West Inman St,Cleveland,TN,373111786,-84.88,35.16
+23,Starbucks,76881-121299,4570 Frontage Rd NW,Cleveland,TN,373122905,-84.84,35.26
+24,Starbucks,17746-178124,615 Paul Huff Parkway NW,Cleveland,TN,37312,-84.86,35.21
+25,Starbucks,10084-99523,3603 S Houston Levee Rd,Collierville,TN,380179014,-89.73,35.05
+26,Starbucks,8362-16534,897 Poplar,Collierville,TN,380175145,-89.69,35.05
+27,Starbucks,76241-91588,325 New Byhalia Rd,Collierville,TN,380173705,-89.69,35.05
+28,Starbucks,25983-237524,1202 S James Campbell Blvd,Columbia,TN,38401,-87.06,35.6
+29,Starbucks,10616-101627,1105 Interstate Drive,Cookeville,TN,385014133,-85.51,36.14
+30,Starbucks,70334-135770,1000 North Dixie,Cookeville,TN,38505,-85.5,36.17
+31,Starbucks,10791-102282,1181 North Houston Levee,Cordova,TN,380186616,-89.73,35.16
+32,Starbucks,76119-90840,475 N Germantown Pkwy,Cordova,TN,380186209,-89.8,35.14
+33,Starbucks,11555-105318,970 N. Germantown,Cordova,TN,380185892,-89.79,35.15
+34,Starbucks,22992-226884,1641 N. Germantown Pkwy,Cordova,TN,38016,-89.79,35.17
+35,Starbucks,20852-208193,265 Highland Square,Crossville,TN,38555,-85.04,35.96
+36,Starbucks,18984-190185,11817 Kingston Pike,Farragut,TN,37934,-84.12,35.9
+37,Starbucks,73972-107551,189 Brooklawn Street,Farragut,TN,379342875,-84.18,35.88
+38,Starbucks,17007-144605,5201 N Broadway St & Knox Rd,Fountain City,TN,37918,-83.92,36.05
+39,Starbucks,76341-95743,3064 Columbia,Franklin,TN,370647424,-86.88,35.89
+40,Starbucks,29015-245748,1203 Murfreesboro Road,Franklin,TN,37067,-86.83,35.92
+41,Starbucks,8349-5898,"555 Cool Springs Rd, Coolsprings Galleria",Franklin,TN,370672680,-86.82,35.95
+42,Starbucks,19546-196065,"1800 Galleria Blvd, 2386, Cool Springs Galleria",Franklin,TN,37067,-86.81,35.96
+43,Starbucks,8477-18459,"204 S. ROYAL OAKS BLVD, Carothers Place",Franklin,TN,370645313,-86.83,35.91
+44,Starbucks,10172-99764,"9175 Carothers Parkway, 101",Franklin,TN,370676317,-86.8,35.96
+45,Starbucks,8394-27036,"438 Main Street, Space 168",Franklin,TN,370642720,-86.87,35.92
+46,Starbucks,10646-101838,875 Nashville Pike,Gallatin,TN,370663103,-86.47,36.38
+47,Starbucks,6172-148992,2011 Nashville Pike,Gallatin,TN,370663162,-86.52,36.35
+48,Starbucks,23323-217687,"903 Parkway, 101",Gatlinburg,TN,37738,-83.52,35.71
+49,Starbucks,76207-89121,9235 US Hwy 72,Germantown,TN,38138,-89.76,35.06
+50,Starbucks,9965-99083,7570 Poplar Avenue,Germantown,TN,381383807,-89.81,35.09
+51,Starbucks,24873-230636,7735 Farmington Blvd,Germantown,TN,38138,-89.81,35.1
+52,Starbucks,26128-102998,123 Northcreek Blvd,Goodletsville,TN,370721998,-86.7,36.33
+53,Starbucks,79286-100709,1820 Roane State Highway,Harriman,TN,377488307,-84.55,35.89
+54,Starbucks,8347-9117,201 W Main,Hendersonville,TN,370753306,-86.62,36.3
+55,Starbucks,17948-182404,1004 Andrews Run,Hendersonville,TN,37075,-86.59,36.35
+56,Starbucks,8996-95185,1017 Glenbrook Way,Hendersonville,TN,370751231,-86.62,36.33
+57,Starbucks,19789-195024,"305 Indian Lake Blvd., 100",Hendersonville,TN,37075,-86.59,36.33
+58,Starbucks,11294-103820,5008 Old Hickory Blvd,Hermitage,TN,37076,-86.62,36.19
+59,Starbucks,9805-97270,4495 Lebanon Pike,Hermitage,TN,370761311,-86.6,36.21
+60,Starbucks,9892-97271,5238 Highway 153,Hixson,TN,373434911,-85.24,35.12
+61,Starbucks,76462-90903,"5579 Hwy 153, Towne Centre North",Hixson,TN,373433748,-85.25,35.15
+62,Starbucks,8527-70020,"907 Vann Drive, E",Jackson,TN,383056046,-88.85,35.67
+63,Starbucks,23398-229324,2034 N Highland,Jackson,TN,38305,-88.83,35.66
+64,Starbucks,25531-240707,8 Lanese Dockery Dr,Jackson,TN,38305,-88.86,35.68
+65,Starbucks,76148-93379,93 Stonebrook Pl,Jackson,TN,383053637,-88.86,35.69
+66,Starbucks,23183-95271,35 W University Pkwy,Jackson,TN,383051668,-88.83,35.7
+67,Starbucks,24260-236565,"1150 W. State of Franklin Rd, 10",Johnson City,TN,37604,-82.37,36.31
+68,Starbucks,22313-215029,1805 W State of Franklin Rd,Johnson City,TN,37604,-82.38,36.3
+69,Starbucks,18279-131791,101 Burgin Dossett Hall,Johnson City,TN,37614,-82.37,36.3
+70,Starbucks,8602-88440,2008 North Roan St,Johnson City,TN,376013120,-82.37,36.34
+71,Starbucks,76649-99851,2116 N Roan St,Johnson City,TN,37601,-82.38,36.34
+72,Starbucks,17933-186984,1200 W Jackson Blvd,Jonesborough,TN,37659,-82.49,36.29
+73,Starbucks,13504-104466,1860 N Eastman Road,Kingsport,TN,376642312,-82.52,36.54
+74,Starbucks,76845-110955,2626 E Stone Dr,Kingsport,TN,376605883,-82.49,36.55
+75,Starbucks,10173-97266,2021 Cumberland Avenue,Knoxville,TN,379162909,-83.94,35.95
+76,Starbucks,72550-101116,9161 Middlebrook Pike,Knoxville,TN,379231438,-84.09,35.94
+77,Starbucks,72657-64919,11100 Parkside Dr,Knoxville,TN,379341960,-84.15,35.9
+78,Starbucks,11655-105044,7803 Montvue Center Way,Knoxville,TN,379195575,-84.04,35.93
+79,Starbucks,75695-79930,501 West Church Street,Knoxville,TN,379022506,-83.92,35.96
+80,Starbucks,9780-97264,116 Merchants Drive,Knoxville,TN,379123501,-83.97,36.01
+81,Starbucks,19129-192727,115 Moss Grove Blvd.,Knoxville,TN,37922,-84.09,35.91
+82,Starbucks,70025-105019,1235 Phillip Fulmer Way,Knoxville,TN,379964511,-83.93,35.95
+83,Starbucks,72549-101114,"9501 S. Northshore Dr., West Town Knoxville",Knoxville,TN,379225814,-84.07,35.86
+84,Starbucks,17209-170647,9225 Kingston Rd.,Knoxville,TN,379223660,-84.09,35.91
+85,Starbucks,8578-82640,329 N Cedar Bluff Blvd,Knoxville,TN,379234507,-84.09,35.92
+86,Starbucks,19156-196044,7600 Kingston Pike,Knoxville,TN,37919,-84.04,35.93
+87,Starbucks,76590-97611,4700 New Harvest Ln,Knoxville,TN,379187000,-83.89,36.04
+88,Starbucks,75119-60419,1017 Francis Street,Knoxville,TN,379163433,-83.93,35.95
+89,Starbucks,17546-166068,1900 Town Center Blvd,Knoxville,TN,37922,-84.1,35.87
+90,Starbucks,8536-65600,4924 Kingston Pike,Knoxville,TN,379195111,-83.99,35.94
+91,Starbucks,8590-85180,11038 Park Side Dr,Knoxville,TN,379341952,-84.15,35.9
+92,Starbucks,21676-194333,8040 Ray Mears Blvd,Knoxville West,TN,37919,-84.05,35.92
+93,Starbucks,26251-242645,"9014 Highway 64, 102",Lakeland,TN,38002,-89.76,35.21
+94,Starbucks,21303-210544,9025 Hwy 64,Lakeland,TN,38002,-89.76,35.2
+95,Starbucks,22767-216485,604 S Cumberland St,Lebanon,TN,37087,-86.29,36.19
+96,Starbucks,47952-260464,404 Hwy 321 N,Lenoir City,TN,37771,-84.26,35.8
+97,Starbucks,23875-231824,"870 Hwy 321 N, 1",Lenor City,TN,37771,-84.27,35.82
+98,Starbucks,8551-75322,1907 Gallatin Pike North,Madison,TN,371152027,-86.7,36.3
+99,Starbucks,10574-101089,84 Campground,Manchester,TN,373556541,-86.05,35.46
+100,Starbucks,26008-237282,730 Watkins Rd,Maryville,TN,37801,-83.99,35.75
+101,Starbucks,11820-106483,1011 W Lamar Alexander Pkwy,Maryville,TN,378014580,-83.99,35.75
+102,Starbucks,13547-107882,"5679 Poplar Ave, 103",Memphis,TN,381193854,-89.87,35.1
+103,Starbucks,19344-194452,506 University St,Memphis,TN,38112,-89.99,35.15
+104,Starbucks,78038-115427,2491 Winchester Rd,Memphis,TN,381163851,-89.98,35.05
+105,Starbucks,8345-13178,3388 Poplar Avenue,Memphis,TN,381114644,-89.95,35.13
+106,Starbucks,5120-148331,601 Colonial Road,Memphis,TN,381175132,-89.9,35.11
+107,Starbucks,11770-104925,1615 Sycamore View,Memphis,TN,381347313,-89.87,35.17
+108,Starbucks,18200-182624,4545 Poplar Ave.,Memphis,TN,38117,-89.91,35.12
+109,Starbucks,8423-17394,"6161 Poplar Avenue, Wolfchase Galleria",Memphis,TN,381194741,-89.86,35.1
+110,Starbucks,8297-5927,1850 Union Avenue,Memphis,TN,381044027,-90.0,35.14
+111,Starbucks,75252-95273,6019 Walnut Grove Rd,Memphis,TN,381202113,-89.86,35.13
+112,Starbucks,76352-97101,7989 US Hwy 64,Memphis,TN,381334007,-89.8,35.2
+113,Starbucks,48904-222786,"1761 Union Ave, Centennial Crossing Shopping Center",Memphis,TN,38104,-90.0,35.14
+114,Starbucks,8450-14492,"7945 Winchester Road, D",Memphis,TN,381252363,-89.8,35.05
+115,Starbucks,75805-96442,2491 Winchester Road,Memphis,TN,381163851,-89.98,35.05
+116,Starbucks,70357-138226,5959 Poplar Avenue,Memphis,TN,381193938,-89.86,35.1
+117,Starbucks,10054-69380,2801 Kirby Parkway,Memphis,TN,38119,-89.84,35.07
+118,Starbucks,75923-96829,201 S 3rd St,Memphis,TN,381034019,-90.05,35.14
+119,Starbucks,75802-97854,2491 Winchester Road,Memphis,TN,381163851,-89.98,35.05
+120,Starbucks,25391-230638,262 Danny Thomas Pl,Memphis,TN,38105,-90.04,35.15
+121,Starbucks,8360-10799,5201 Poplar Avenue,Memphis,TN,381177611,-89.89,35.11
+122,Starbucks,8352-5936,"2698 N Germantown Pkwy, Wolfchase Galleria",Memphis,TN,381338115,-89.79,35.2
+123,Starbucks,13669-108417,"2760 GERMANTOWN PKWY, 181",Memphis,TN,381338153,-89.79,35.2
+124,Starbucks,7954-95452,8507 Hwy 51,Millington,TN,380531535,-89.89,35.36
+125,Starbucks,19309-200485,3980 W. Andrew Johnson Hwy.,Morristown,TN,37814,-83.35,36.2
+126,Starbucks,76574-100203,"401 S  Mount Juliet Rd, 600",Mount Juliet,TN,371226359,-86.51,36.17
+127,Starbucks,24573-237624,11309 Lebanon Rd,Mt Juliet,TN,37122,-86.52,36.23
+128,Starbucks,21373-211486,"621 S Mt Juliet Rd, 101",Mt Juliet,TN,37122,-86.51,36.16
+129,Starbucks,22828-224024,1641 North Memorial,Murfreesboro,TN,37129,-86.39,35.87
+130,Starbucks,11821-105184,"1804 Old Fort Parkway, The Avenues",Murfreesboro,TN,371293363,-86.42,35.85
+131,Starbucks,20178-188604,2615 Medical Center Parkway,Murfreesboro,TN,37129,-86.44,35.86
+132,Starbucks,13773-108477,2935 S Rutherford Blvd,Murfreesboro,TN,371305977,-86.35,35.83
+133,Starbucks,3572-86323,1611 Alumni Dr,Murfreesboro,TN,37132,-86.36,35.85
+134,Starbucks,10698-102250,"2904 S Church Street, Unit A",Murfreesboro,TN,371278351,-86.4,35.79
+135,Starbucks,48897-135767,2449 Old Fort Pkwy,Murfreesboro,TN,37128,-86.44,35.84
+136,Starbucks,72579-101480,2050 Lascassas Pike,Murfreesboro,TN,371301936,-86.35,35.87
+137,Starbucks,47795-240787,Hwy 96 & Veterans Parkway,Murfreesboro,TN,37128,-86.49,35.84
+138,Starbucks,23685-232353,1851 Old Fort Pkwy,Murfreesboro,TN,37129,-86.42,35.85
+139,Starbucks,75459-105628,3901 Granny White Pike,Nashville,TN,372043903,-86.8,36.11
+140,Starbucks,76524-97607,26 White Bridge Rd,Nashville,TN,372051400,-86.85,36.13
+141,Starbucks,8300-5895,"402 21st Avenue S, Mall at Green Hills",Nashville,TN,372032404,-86.8,36.15
+142,Starbucks,8414-18705,"424 Church Street, Suite 110",Nashville,TN,372192342,-86.78,36.16
+143,Starbucks,75791-95462,"315 4th Ave N, Opry Mills",Nashville,TN,372191601,-86.78,36.17
+144,Starbucks,17625-183305,433 Opry Mills Drive,Nashville,TN,37214,-86.69,36.2
+145,Starbucks,27319-247087,"3500 John A. Merritt Blvd, Belle Meade Plaza Shopping Center",Nashville,TN,37209,-86.83,36.17
+146,Starbucks,8403-23061,4514 Harding Pike,Nashville,TN,372052102,-86.85,36.12
+147,Starbucks,78012-107811,611 Commerce St,Nashville,TN,372033742,-86.78,36.16
+148,Starbucks,70337-125287,"One Terminal Drive, Suite 325",Nashville,TN,372144110,-86.67,36.13
+149,Starbucks,8317-5888,3706 Hillsboro Pike,Nashville,TN,372152149,-86.81,36.11
+150,Starbucks,5163-145369,1 Terminal Dr,Nashville,TN,372144110,-86.67,36.14
+151,Starbucks,29007-105504,"210 Franklin Road, The Mall at Green Hills",Nashville,TN,370273218,-86.79,36.03
+152,Starbucks,8415-100159,"2153 Green Hills Village Drive, Nipper's Corner",Nashville,TN,372152601,-86.82,36.11
+153,Starbucks,8370-13012,5533 Edmonson Pike,Nashville,TN,372115808,-86.75,36.04
+154,Starbucks,78049-125290,1 Terminal Dr,Nashville,TN,372144112,-86.67,36.14
+155,Starbucks,8356-5891,2521 West End Ave.,Nashville,TN,372031423,-86.81,36.15
+156,Starbucks,8525-66554,7083 Highway 70 S.,Nashville,TN,372212207,-86.92,36.07
+157,Starbucks,9779-95183,2308 Murfreesboro Pike,Nashville,TN,372173315,-86.65,36.09
+158,Starbucks,79223-94846,2131 Abbott Martin Rd,Nashville,TN,372152699,-86.82,36.11
+159,Starbucks,9781-97558,3005 West End Ave,Nashville,TN,372031317,-86.81,36.14
+160,Starbucks,76738-106115,3814 Charlotte Pike,Nashville,TN,372093737,-86.89,36.13
+161,Starbucks,11204-103554,515 Dominican Drive,Nashville,TN,372281924,-86.8,36.19
+162,Starbucks,8883-93790,1305 Oakridge Turnpike,Oak Ridge,TN,378306408,-84.26,36.01
+163,Starbucks,21885-212185,62 Ivanhoe Rd & Raleigh Rd,Oakridge,TN,37830,-84.26,36.01
+164,Starbucks,73873-102993,220 Wears Valley Road,Pigeon Forge,TN,378634215,-83.58,35.8
+165,Starbucks,13505-106987,2491 HIGHWAY 441,Pigeon Forge,TN,37863,-83.58,35.81
+166,Starbucks,17932-186985,430 E Emory Rd,Powell,TN,37849,-84.0,36.05
+167,Starbucks,11656-105033,401 East Emory Road,Powell,TN,378493518,-84.0,36.05
+168,Starbucks,48896-215025,I75 and Emory Rd,Powell,TN,37849,-84.06,36.05
+169,Starbucks,8555-65602,"1645 Parkway, Unit 103",Sevierville,TN,378622899,-83.57,35.83
+170,Starbucks,9926-98924,646 Winfield Dunn Parkway,Sevierville,TN,378765510,-83.57,35.88
+171,Starbucks,76875-121296,803 Industrial Blvd,Smyrna,TN,371676865,-86.56,35.98
+172,Starbucks,8929-95186,620 Sam Ridley Pkwy West,Smyrna,TN,371675622,-86.56,35.98
+173,Starbucks,76876-121297,1033 Crossing Blvd,Spring Hill,TN,371742776,-86.94,35.74
+174,Starbucks,13987-114864,4839 MAIN STREET,SPRING HILL,TN,371742725,-86.91,35.78
+175,Starbucks,3055-142044,4726 Traders Way,Thompsons Station,TN,371795366,-86.91,35.78
+1,Starbucks,76795-96265,250 S Colonial Dr,Alabaster,AL,350074657,-86.81,33.23
+2,Starbucks,13210-95453,345 South Colonial Dr,Alabaster,AL,350074690,-86.8,33.22
+3,Starbucks,10796-102254,2171 Kent Dairy Rd,Alabaster,AL,350075387,-86.83,33.21
+4,Starbucks,10248-100069,1286 Hwy 72 East,Athens,AL,356114404,-86.95,34.78
+5,Starbucks,47255-121766,300 Dean Rd,Auburn,AL,368304404,-85.46,32.61
+6,Starbucks,22803-218127,Magnolia Street,Auburn,AL,36849,-85.48,32.61
+7,Starbucks,78065-105597,"Quad Center, 255 Duncan Dr",Auburn,AL,36849,-85.49,32.6
+8,Starbucks,76912-128666,4889 Promenade Pkwy,Bessemer,AL,350227305,-86.93,33.33
+9,Starbucks,72614-22325,4616 Highway 280,Birmingham,AL,352425028,-86.71,33.43
+10,Starbucks,13779-108621,"1658 Montclair Rd, Suite 100",Birmingham,AL,352102410,-86.72,33.53
+11,Starbucks,24427-237908,615 18th Street,Birmingham,AL,35233,-86.8,33.51
+12,Starbucks,18675-189964,5900 Messer Airport Way,Birmingham,AL,35212,-86.75,33.56
+13,Starbucks,11083-104088,231 State Farm Pkwy,Birmingham,AL,352090171,-86.83,33.45
+14,Starbucks,3478-92800,5405 US-280 East,Birmingham,AL,35242,-86.67,33.42
+15,Starbucks,78059-106248,2010 Brookwood Medical Center Drive,Birmingham,AL,352096804,-86.78,33.46
+16,Starbucks,25845-235684,1400 University Blvd,Birmingham,AL,35233,-86.81,33.5
+17,Starbucks,70067-133044,917 13th St,Birmingham,AL,352031624,-86.81,33.5
+18,Starbucks,23642-225124,"308 20th St South, Suite 100",Birmingham,AL,35223,-86.8,33.51
+19,Starbucks,22706-222686,5900 Messer Airport Wy,Birmingham,AL,35212,-86.75,33.56
+20,Starbucks,75268-97436,810 Saint Vincents Dr,Birmingham,AL,352051601,-86.79,33.51
+21,Starbucks,13703-107628,1584 Montgomery Hwy,Birmingham,AL,352164524,-86.81,33.4
+22,Starbucks,6964-86620,3032 John Hawkins Pkwy,Birmingham,AL,352441001,-86.81,33.37
+23,Starbucks,8396-28812,1927 11th Avenue South,Birmingham,AL,352052603,-86.8,33.5
+24,Starbucks,72615-22327,1654 Gadsden Hwy,Birmingham,AL,352353104,-86.64,33.6
+25,Starbucks,17221-169985,"1879 Cherokee Avenue, SW, Jubilee Square",Cullman,AL,35055,-86.84,34.15
+26,Starbucks,13211-104121,6830 Highway 90,Daphne,AL,365269520,-87.91,30.65
+27,Starbucks,76832-97609,2141 Point Mallard Pkwy,Decatur,AL,35601,-86.96,34.59
+28,Starbucks,13704-107959,902 Wimberly Drive SW,Decatur,AL,356033231,-87.0,34.56
+29,Starbucks,76742-95745,"4601 Montgomery Hwy, Suite 300",Dothan,AL,363031522,-85.45,31.27
+30,Starbucks,17646-153585,1 Harrison Plz,Florence,AL,356320002,-87.68,34.8
+31,Starbucks,20271-202065,357 Cox Creek Parkway,Florence,AL,35630,-87.64,34.84
+32,Starbucks,9971-96354,"2601 S. McKenzie Road, 900",Foley,AL,365353409,-87.68,30.38
+33,Starbucks,76843-111224,3489 Lowery Pkwy,Fultondale,AL,350681677,-86.81,33.61
+34,Starbucks,23672-230991,1724 W Grand Ave,Gadsden,AL,35904,-86.08,33.99
+35,Starbucks,23630-227625,659 Fieldstown Rd,Gardendale,AL,35071,-86.82,33.65
+36,Starbucks,76584-99835,3820 Gulf Shores Pkwy,Gulf Shores,AL,365422819,-87.68,30.3
+37,Starbucks,18944-175726,531 Brookwood Village,Homewood,AL,35209,-86.77,33.47
+38,Starbucks,24032-228009,"5180 Medford Rd, Suite 108",Hoover,AL,35244,-86.85,33.36
+39,Starbucks,6965-85181,4710 Hwy 280 east,Hoover,AL,35242,-86.7,33.42
+40,Starbucks,5108-145307,"5561 Grove Blvd, Riverchase Galleria",Hoover,AL,352264600,-86.83,33.4
+41,Starbucks,8488-38759,"3000 Riverchase Galleria, 124",Hoover,AL,352442315,-86.81,33.38
+42,Starbucks,10127-99686,3421 Memorial Drive NW,Huntsville,AL,358015317,-86.59,34.77
+43,Starbucks,72653-48479,"2750 Carl T Jones Dr SE, 7",Huntsville,AL,358024913,-86.55,34.68
+44,Starbucks,9543-97230,"800 Airport Rd, Suite A",Huntsville,AL,358021350,-86.57,34.69
+45,Starbucks,9507-96863,"2003 Whitesburg Drive, Suite D",Huntsville,AL,358014543,-86.58,34.72
+46,Starbucks,12493-152666,7090 University Dr,Huntsville,AL,35806,-86.71,34.75
+47,Starbucks,72635-32262,6275 University Dr,Huntsville,AL,358061776,-86.68,34.74
+48,Starbucks,10062-99521,1015 North Memorial Pkwy,Huntsville,AL,358015927,-86.6,34.74
+49,Starbucks,11428-104120,7779 Highway 72 West,Madison,AL,357588751,-86.74,34.75
+50,Starbucks,48885-260445,4579 Wall Triana Hwy,Madison,AL,35758,-86.75,34.71
+51,Starbucks,16910-165028,8207 Highway 72 W,Madison,AL,35758,-86.76,34.75
+52,Starbucks,19891-192724,5901 USA Dr N,Mobile,AL,36688,-88.18,30.7
+53,Starbucks,9970-97273,"3255 Airport Blvd, Bel Air Mall",Mobile,AL,366063201,-88.12,30.68
+54,Starbucks,11673-105401,"3494 BEL AIR MALL, G7",Mobile,AL,366063406,-88.12,30.67
+55,Starbucks,25695-236913,"3075 Government Blvd, Suite B100",Mobile,AL,36606,-88.12,30.65
+56,Starbucks,72658-64920,"790 Shillinger Rd S, Shoppes of Midtown",Mobile,AL,366958979,-88.23,30.67
+57,Starbucks,11324-104129,1510 Government St,Mobile,AL,366042006,-88.07,30.68
+58,Starbucks,8724-93235,390 Schillinger Road,Mobile,AL,366958960,-88.23,30.68
+59,Starbucks,10537-96355,1363 Hillcrest Rd,Mobile,AL,366953925,-88.19,30.66
+60,Starbucks,8581-86640,3901 Airport Blvd,Mobile,AL,366081621,-88.14,30.68
+61,Starbucks,10538-101306,"3451 Spring Hill Ave, Oliver Creek Crossings",Mobile,AL,366081559,-88.13,30.7
+62,Starbucks,10772-101748,6501 Atlanta Hwy,Montgomery,AL,361174226,-86.18,32.38
+63,Starbucks,21849-215404,2576 Berryhill Rd,Montgomery,AL,36117,-86.16,32.36
+64,Starbucks,3426-240988,1601 Eastern Blvd,Montgomery,AL,36106,-86.22,32.36
+65,Starbucks,9809-97244,3110 Zelda Road,Montgomery,AL,361062692,-86.26,32.35
+66,Starbucks,2960-85962,6911 East Chase Parkway,Montgomery,AL,36117,-86.17,32.36
+67,Starbucks,10771-102253,"7790 Vaughn, Mountain Brook Village",Montgomery,AL,361161337,-86.18,32.34
+68,Starbucks,8418-41260,2738 Cahaba Rd,Mountain Brook,AL,352232304,-86.77,33.48
+69,Starbucks,76396-80263,2640 Enterprise Dr,Opelika,AL,368011511,-85.41,32.62
+70,Starbucks,25201-233569,2460 Enterprise Dr,Opelika,AL,36801,-85.37,32.64
+71,Starbucks,9544-97240,2056 Interstate Drive,Opelika,AL,368015498,-85.4,32.62
+72,Starbucks,24727-236464,25773 Perdido Beach Blvd,Orange Beach,AL,36561,-87.59,30.27
+73,Starbucks,76606-101463,400 Oxford Exchange Blvd,Oxford,AL,362033459,-85.78,33.61
+74,Starbucks,9738-97528,1011 Hwy 21 South,Oxford,AL,36203,-85.83,33.61
+75,Starbucks,20585-202066,2588 Cobbs Ford Road,Prattville,AL,36066,-86.39,32.46
+76,Starbucks,76796-108570,2754 Legends Pkwy,Prattville,AL,36066,-86.43,32.47
+77,Starbucks,10249-96359,"30350 State Hwy 181, Suite A",Spanish Fort,AL,365275694,-87.85,30.67
+78,Starbucks,3453-93234,"1420 Gadsden Hwy, BAMA Dining Services/Starbucks Coffee",Trussville,AL,352353126,-86.65,33.6
+79,Starbucks,72121-3608,"1000 McCorvey Dr., UoA-Ferguson Center",Tuscaloosa,AL,35487,-87.55,33.21
+80,Starbucks,13482-94577,"1800 McFarland Blvd, Suite 600",Tuscaloosa,AL,354045875,-87.53,33.2
+81,Starbucks,72668-65003,1901 13th Ave E,Tuscaloosa,AL,354044785,-87.51,33.2
+82,Starbucks,48066-207044,838 Paul W Bryant Drive,Tuscaloosa,AL,35401,-87.55,33.21
+83,Starbucks,9587-97243,3130 Cahaba Heights Rd,Vestavia Hills,AL,352435243,-86.74,33.46
+84,Starbucks,8560-79440,"700 Montgomery Hwy, Suite 100",Vestavia Hills,AL,352161867,-86.79,33.45
